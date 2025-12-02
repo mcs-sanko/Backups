@@ -1,0 +1,1 @@
+- Between 16-30 you are a sponge. Don't get a job for the sake of money do things and jobs that drastically improve your knowledge. The money will come once you've mastered your craft.

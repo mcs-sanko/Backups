@@ -1,0 +1,1 @@
+- Neyi satabileceksek. Çok fazla işletmenin çok sayıda aldığı şeyleri üret ve daha ucuza sat. Örnek: Otellere şampuan vs. -> Premium şampuan üret.

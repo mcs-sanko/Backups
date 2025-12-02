@@ -1,0 +1,1 @@
+After finding what you love and making it your career you also need to balance the amount you are doing it so you can savor it by scaling or delegation

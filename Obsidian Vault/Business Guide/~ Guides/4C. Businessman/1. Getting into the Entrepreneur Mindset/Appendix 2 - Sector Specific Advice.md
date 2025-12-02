@@ -1,0 +1,1 @@
+- Otomasyon insanla ayni seviyede yaptigi surece kullanilmaz. Insanin yapamayacagi kadar iyi seviyede yaptiginda kullanilir. O zaman till in robotik tarafi kurtarmaz. Hizmet tarafi kurtarabilir. CNC mesela cok daha iyi ua da hizli yapiyo

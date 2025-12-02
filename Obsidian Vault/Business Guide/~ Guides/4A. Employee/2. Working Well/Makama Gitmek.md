@@ -1,0 +1,1 @@
+Makama kagit kalemle var ki onlari not al istiyorda

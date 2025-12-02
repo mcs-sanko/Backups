@@ -1,0 +1,20 @@
+- Exploding Topics – What is going to trend?
+- Canny – Güzel geri bildirim platformu
+- Hotjar – Kullanıcı senin siteni nasıl kullanıyor? (Sormuyor observelüyor, design thinking açısından çok değerli)
+- Supernova – Easy css etc. May be needed to streamline website, looks pretty efficient.
+- Checklist Design – Bu değil de sanki komunitenin daha iyi checklist resourceları vardı asıl onları kullanalım. (Komunitenin resourceları gelene kadar bu dursun)
+- Lottie – Animasyonlar için çok güzel bir toola benziyor. Her şey videoya/reele/tiktoka gittiği için bu aralar baya iş görebilir orijinal içerik üretmekte. Ama yine de animatör olmak zor iş opportunity costuna bakılmalı.
+- Pipedream – Scraping için çok ideal bir no-codeumsu tool. Kullanılabilir.
+- IFTTT – Tek bir postla birden çok platforma (post insta post as twittter post) postlamak gibi otomasyonlar sunuyor. Lazım ve kritik. (Belki posting değil sadece scheduling vardır bu bir control edilsin.)
+- Make – Business automation için lazım. Lead centralization ve distribution için önemli.
+- Appsmith – Internal toollar yaptığımız işi streamlinelamak ve bir şeyleri unutmadan çalışmak için çok kritik, bunu no-code sunuyor, başarılı
+- FlutterFlow – Tam flutterla kendime tool yazmayı öğrenecektim çok zamanında geldi. Hem cross platform hem no-code, bayıldım direkt başlıyorum.
+- Hemingway – Yazı bazlı içerik üretmeye başladığımda (Ki geçen haftadan görünen o ki başka türlü içerik zaten yok (Ben fotoğraf üretiyorum gerçi de mühim değil)) çok faydalı olur.
+- Appsumo, ProductHunt – Bu tarz ürün satma/tanıtma siteleri çok önemli!
+- Netpeak Spider – SEO severiz, çok underrated bi tool.
+- Black Magic – Twitter analytics, güzel.
+- Buy me a Coffee – Ben Ko-fi açmayı düşünüyordum bu daha iyi imiş.
+- Stripe – Ödeme altyapısı, kritik!
+- Summari – Web sayfası özetleme -> content creation automatelenebilir
+- Buffer –  Tüm social medialar için scheduler ve analyst, lazım!
+- Sparktoro – Audience analytics

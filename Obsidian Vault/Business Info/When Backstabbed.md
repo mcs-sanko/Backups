@@ -1,0 +1,1 @@
+In business when somebody backstabs you, maybe even your own will you have the stomach to dispose of the problem ppermanently? No. Then what will you do?

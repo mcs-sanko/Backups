@@ -1,0 +1,1 @@
+Your nventions can and will be stolen by the companies you work for and they will fire you as a reward

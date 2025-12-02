@@ -1,0 +1,1 @@
+a psychologist for understanding the enemy and creating the most devastating blow to them on a personal level not a business one. Kill the people and the business will fall. Psychological warfare

@@ -1,0 +1,1 @@
+People are not asking your profession, people are asking what you can do for them. Instead of saying i'm an engineer, say I can automate parts of your business so well that you can run it with half the head count. or I can halve the time you spend on managing people.

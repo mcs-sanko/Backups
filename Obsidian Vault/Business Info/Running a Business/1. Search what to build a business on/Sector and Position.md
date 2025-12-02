@@ -1,0 +1,2 @@
+
+Dont build our robotic tractors, that is small thinking. The technology is already available and relatively affordable we should put our effort into reinventing the wheel. We should be buying up the land and farming on it for the minimal cost. Ata tohumları kullan ayrıca Türkiye için çok önemli bir şey.

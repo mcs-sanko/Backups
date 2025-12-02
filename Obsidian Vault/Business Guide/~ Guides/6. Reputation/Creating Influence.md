@@ -1,0 +1,5 @@
+- 
+- 
+- People gain influence by extortion (digging up dirt on others) or doing favors to others
+- for influence people resort to finding dirt on people and blackmailing them or cashing in chits of done favors
+- RICE makes people do things: Reward, Ideology (What they believe in), Coercion(All their negative feelings), Ego (How they want to be seen)

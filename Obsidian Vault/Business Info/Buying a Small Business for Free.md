@@ -1,0 +1,6 @@
+- In 1 year only 1/12 businesses for sale will be sold.
+- At some point those people will just want to get rid of it because the bussiness will become a drag on their time so you will offer them.
+	- Just the transaction fees upfront.
+	- And 5% of all future profits.
+	- For the whole keyturn business.
+	- And they will accept because 5% of all future profits is better than nothing.

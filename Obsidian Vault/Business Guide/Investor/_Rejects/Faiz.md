@@ -1,0 +1,1 @@
+- Mevduat Faizi: Asla karlı olmuyor. Profit = Interest% - Inflation% - Stoppage%. Zaten sadece o para biriminde olmayarak [enfllasyon](https://bilgibankasi.ito.org.tr/tr/istatistik-verileri/istanbul-ucretler-gecinme/gruplar-itibariyle-yil-sonuna-gore?year=95) kadar kar ediyoruz.

@@ -1,0 +1,100 @@
+## Contents
+- İletişim
+		- Ad-Soyad
+		- Adres (Açık adres olmasına gerek yok, ilçe/il/ülke)
+		- Tel
+		- E-posta (Güncel, resmi)
+		- Linkedin link (personalized link)
+- Kişisel Bilgiler Yazılmaması Uygun – Fırsat Eşitliği için – Mülakatlarda bile verilmek zorunda değil.
+	- Doğum Tarihi, yeri
+	- Ehliyet
+	- Medeni
+	- Askerlik
+	- Fotoğraf (İllaki koyulacaksa Biyometrik vs. makbul)
+		- Halo Effect: (Hare Etkisi) (Like Angel): Eli yüzü düzgün insanlar daha güvenilir vs. algılanır.
+- Özet/Hedef/Profil
+	- Yetkinlik
+	- Deneyim
+	- Bakış Açısı
+		- Sektörel kelimeler kullanımı kısıtlı olmalı
+		- Klişe kelimelerden kaçınılmalı (Hijyen faktörleri: takım oyuncusu şu bu zaten yok demez kimse)
+		- Firmalara göre özel yazılması uygun bu bölümün.
+		- Ex: Digital strategy executive, experienced strategy, business development and marketing professional with an entrepreneurial mindset.
+		- Kısa yazılmalı birkaç cümle max.
+- Deneyim
+	- Staj
+	- İş (Tam/Yarı zaman/ Dönemlik)
+		- Dönemlik işler mesela garsonluk, özel ders vs. yazılması fena olmayabilir. Özellikle genç yaşta yapılmış işler iyi. Örneğin baristalık tecrübesi, sosyal, insanlarla anlaşabilen vs. mesajı verir. AMA mmesela 20 yıllık tecrübeniz varsa gerek yok.
+	- Gönüllü Çalışmalar
+	- İşler ters kronolojik sırayla yazılır. (En güncel en üstte)
+	- PROJECTS (Portfolio)
+	- Deneyimler yazarken anlamlı aksiyon fiilleri kullanılmalı, nerede çalıştından ziyade , orada çalışırken ne yaptığın kesin bir şekilde, nasıl fark yarattığın yazılmalı. Yapılabiliyorsa sayısallaştırılmalı.
+- Eğitim
+	- Lise/Lisans/Yüksek Lisans/Doktora
+	- Erasmus/Exchange
+	- (Ortalama=3.5+), Burs, Ödüller
+		- Fakülte, BS. MS. PHD, GPA, Scholarships
+- Beceri ve Sertifikalar
+	- Yazılım/Donanım
+		- Yazılım, machine learning, ai
+		- Dijital platformlara hakim
+	- Dil
+	- Kişisel Gelişim
+	- Teknik Yetkinlik
+	- Eğitim/Sertifika/Kulüp
+	- Bazı high end seminerler belki eklenebilir.
+		- Mülakatta mesela geliştirme planlarıyla gir, dil bilgim kötü mesela ama seneye şunu yaparak geliştirmeyi planlıyorum şeklinde, kendi zayıflıklarını bilmek ve onları nasıl geliştireceklerini bilmek önemli. Sıkışacak köşenizin kalmaması önemli.
+		- Peki mesela işe bağlı olmayan sertifikalar?
+- İlgi Alanları
+	- Odaklı, Özgün, Disiplinli bir şekilde o ilgi alanine yönelmiş olmak önemli. Gitar çalıyorum ile 5 senedir işte eğitim alıyorum, şurda oynadım şu bu önemli.
+	- Bir konuya odaklanıldığı, üzerine emek harcandığının gösterilmesi bir fikir verir.
+	- Eğitim/Sertifika/Lisans(Spor vs.)/Takım/Kulüp
+		- Film enthusiast-I watch films and value them on joy, education, idea aesthetics etc. But not cinematography= People’s film critic.
+		- Çok kalabalıklaştırılmamalı.
+- Üyelikler
+	- Kulüp
+	- Dernek
+	- Vakıf
+	- Oda
+		- Özellikle yurt dışı başvurularında sosyal yardım önemli. Hem de hiyerarşi olmadığı için çok güçlü insanlarla network sağlama işlevi görebliyor. Meslek içi network, sohbet ve haber anlamında iyi.
+- Referans
+	- İsim, kurum, şirket, iletişim bilgileri
+	- Yüksek mevki, birebir tanıma, birebir çalışma
+	- Referans gidip arandığında referanslık yapıyo olması lazım.
+	- Referans ile önceden konuşulmalı, onay alınmalı.
+
+## Tips
+- Dont list every accomplishment since high school, just the ones important to the job.
+- Have a professional looking email.
+- Net anlaşılabilir, anlamlı, akıcı
+	- Gerekli tüm bilgileri içermeli, gereksizlerden kaçınılmalı
+	- Verilen tüm bilgiler doğru olmalı
+	- İmla dilbilgisi kusursuz
+	- Format istikrarlı, ksursuz
+	- Başvurulan kuruma pozisyona Alana uygun olmalı.
+	- Businesss stalking for mülakat. Mülakattan önce siz de stalklanırsınız.
+	- İşveren CV’yi okumak için 6-7 sn. harcar. Beğenirse okumaya devam ediyor.
+		- Bu 5-6 saniyede ilk neye bakılır?
+		- Senin öne çıkarılmasını istediğin şeyleri yukarı yazmak iyi.
+		- Temiz bi format iyidir.
+	- Anahtar kelimeler (M.S. for example) aratarak bulunabilir.
+	- Formatın düzenli olması lazım.
+	- Geçmişte yaptıklarından gelecekte yapacaklarını görmeye çalışıyorlar.
+	- Dürüstlük mühim.
+	- Çok eski bilgilere yer verilmemeli.
+	- Kaynak önerisi: You majored in what? – book
+	- Harvard University, office of career services resumes & Cover letters
+	- Yurt dışı deneyimleri çok önemli
+	- Fontun durumu başvuruya göre yaratıcı resmi arasında gidebilir. 11-12 p. iyidir.
+	- Bi tık seçici yazılmalı elbet.
+	- Başarısızlıklar, çıkarılna dersler vs. iyi aktarılabilecekse yazılsın.
+	- Her şey iyi aktarılması iyidir.
+	- Kulübe katıldım demek sıkıntı. Niye eğer aktif rol almadıysan sorulduğunda kalcaksan kötü yazı.
+	- Özellikle yurt dışı experience önemli.
+	- FORMAT
+		- İngilizce
+		- Tüm bilgilerde tarih olsun
+		- Yazı noktalama gramer paragraph şu bu iyi olsun.
+		- Standard Marjinler
+		- Max 2 sayfa (Yeni mezunlar için 1 sayfa iyi)
+		- PDF

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="katman_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 900 900" style="enable-background:new 0 0 900 900;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;}
+	.st1{fill:none;stroke:#000000;stroke-width:20;stroke-miterlimit:10;}
+	.st2{fill:#CC0000;stroke:#000000;stroke-width:20;stroke-miterlimit:10;}
+	.st3{fill:#2BAAE1;stroke:#000000;stroke-width:20;stroke-miterlimit:10;}
+	.st4{fill:#FFFFFF;stroke:#000000;stroke-width:20;stroke-miterlimit:10;}
+</style>
+<polygon class="st0" points="450,225 190.19,675 709.81,675 "/>
+<line class="st0" x1="450" y1="225" x2="709.81" y2="675"/>
+<line class="st0" x1="190.19" y1="675" x2="709.81" y2="675"/>
+<line class="st0" x1="450" y1="225" x2="190.19" y2="675"/>
+<line class="st1" x1="419.9" y1="225" x2="160.1" y2="675"/>
+<line class="st1" x1="479.9" y1="225" x2="220.1" y2="675"/>
+<line class="st1" x1="420.1" y1="225" x2="679.9" y2="675"/>
+<line class="st1" x1="480.1" y1="225" x2="739.9" y2="675"/>
+<line class="st1" x1="190.19" y1="649" x2="709.81" y2="649"/>
+<line class="st1" x1="190.19" y1="701" x2="709.81" y2="701"/>
+<circle class="st2" cx="709.81" cy="675" r="100"/>
+<circle class="st3" cx="451.14" cy="225" r="100"/>
+<circle class="st4" cx="190.19" cy="675" r="100"/>
+</svg>

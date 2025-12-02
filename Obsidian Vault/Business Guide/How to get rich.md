@@ -1,0 +1,7 @@
+- You do one thing. Multiple things dilute your focus.
+- That one thing must be your own business, nobody will pay you more for being really good as an employee.
+- A business does one thing to earn money, sells. You must first choose who you want to sell to? People, the government, other businesses?
+- Now that you have chosen your customers, you go and talk to them, out of the blue, go to there and chat up. Learn what they need. Nobody buys things they don't need.
+- After learning what they need, you either create that thing or learn how to access the solution from elsewhere. (Outsourcing and selling etc.)
+- Then you sell it to them.
+- You keep selling this to other similar customers until you are satisfied with the money you earn.

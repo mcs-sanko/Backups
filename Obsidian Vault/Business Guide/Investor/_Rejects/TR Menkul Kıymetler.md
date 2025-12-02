@@ -1,0 +1,1 @@
+- TR Bazlı Menkul Kıymetler (BIST, Bono, Fon, Faiz): Lakin TL döviz karşısında eriyor. Bak şu son yıllarda enflasyon filan derken borsa uçtu patladı boğuldu dedik yine altın daha çok kazandırmış o borsadan hem de %15 filan daha fazla.

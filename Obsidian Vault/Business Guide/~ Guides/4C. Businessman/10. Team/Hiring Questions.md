@@ -1,0 +1,1 @@
+- Spor takip ediyolar mı, ediyolars hangi takımı tutuyorlar, fanatik miler? fanatiklik iyidir senin şirketine de öyle bağlanabilir. Kişilere değil kurumlara loyalty duymayı bilen biri kolay kolay istifa etmez.

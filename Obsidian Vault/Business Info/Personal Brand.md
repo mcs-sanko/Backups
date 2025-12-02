@@ -1,0 +1,2 @@
+- Have strong opinions
+- Create a strong emotional connection with your followers 

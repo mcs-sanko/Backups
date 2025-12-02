@@ -1,0 +1,23 @@
+1. Gelir vergini düzenleyebilmen için senin maaşını ödeyen şirketin yöneticisi olman gerekli. Yoksa melek vergi öder oluyorsun ve para cebine girmeden zaten halihazırda ver gi le ni yor.
+
+
+## Kötü Yollar
+3. Gelir Vergisi ödememek için tax residence değiştirmek saçma çünkü 185 günden fazla Türkiye dışında kalman gerekir çünkü öbür türlü Türk vatandaşı olmasan dahi Türk vergisine tabiisin.
+4. Gelir vergisi olmayan bir ülkede hem şirket hem residency alırsan kendine ödemeyi o ülkede yapıp parayı nakit olarak TR'ye sokabiliyosun. Yine residency mantıksız.
+5. Kendi şirketin sana 0 faiz kredi versin. Sonra geri ödedi diye şirkete yalandan işleyebilirsin ama işin içinde yalan olduğu için başını ağrıtabilir.
+6. Sen bankadan borç al, borç aidatını şirket ödesin olmuyor.
+6. TR'deki şirketinden UK'deki şirketine ödeme yapacaksın. UK'deki şirket fatura kesecek ama o parayı UK'deki şirkete değil kendi cebine alacaksın. UK tarafında broom closet olmazsa,  bir de legit gözükürsen (be creative) UK governmentı soru sormaz böylece hiçbir dijital işlem yapmazsın (no trace) ve yine de bir problem yaşamazsın. Ama TR'de kara paraya dönüşmüş oluyor çok harcama yaparsan bu para nerden geliyor diye TR'de sorgulanabilir.
+
+## İyi Yollar
+
+1. Türkiye'de işi olmayan bir yurt dışı kurumun sana verdiği maaş gelir vergisine tabii değil. 4 tane kişi var Company TR (CTR), Company UK in (CUKin), Company UK out (CUKout), Ben. CTR benim gelirim ancak gelir vergisine de kurum vergisine de tabii olmaması için CTR kar etmemeli ve parayı CTR bana direkt ödememeli. CTR CUKin e hizmet bedeli ödüyor 100%. CUKin TR ile iş yapmış oldu yani CUKin de bu parayı bana veremez. CUKin, CUKout'a hizmet bedeli ödüyor 100%. CUKout'un TR ile hiçbir ilişiği yok. CUKout bana maaşımı yurt dışı şirketi olarak ödüyor 100%. 0 vergili benim yaptığım işin karşılığı benim cebime ulaşıyor. Bunu da İtalya'da yap ki oturumu devam et Avrupa giriş çıkışın, banka hesabın da olsun. Türkiye'de kanuni ve iş merkezi olmayan kurum:
+	1. Türkiye'de hizmet arzeden gerçek kişinin bağlı olduğu işverenin dar mükellef kurum olması, bu kurumun da Türkiye'de hiçbir şekilde kazanç elde edecek şekilde faaliyette bulunmaması,
+	2. Dar mükellef kurumda çalışan kişinin hizmet erbâbı ve yapılan ödemenin de ücret niteliğinde olması,
+	3. Dar mükellef kurumun Türkiye'deki personeline yapılacak ödemenin bu kurumun yurtdışı kazançlarından karşılanması,
+	4. Ücretin döviz olarak ödenmesi,
+	5. Ödenen ücretin dar mükellef kurumun Türkiye'deki hesaplarına gider olarak kaydedilmemesi şartlarının bir arada taşıması
+2. Buy Borrow Die
+	1. Sign yourself stock options from your company: Stock Options is a contract allows you to purchase some stock at a set price before a set date, doesn't have to be realized.
+	2. Şirketince kendine maaş ödemek yerine. Şirketle olan stock options sözleşmelerini collateral göstererek 0% taxed olan loanı alıyosun. Leverage Your Contracts (You dont own them but you have the right to own them for free and this is basically putting up shares as colattarel without owning them. (Drawing up a contract is tax free, a salary is not)
+	3. How do you pay back the loan? In many cases, they keep making the interest payments until they pass away, then their estate is used to settle their loans. They do this because selling stock is taxed, but loans aren't. And the interest payments on loans is far lower than the taxes due from a stock sale. This allows their stock portfolio (and thus wealth) to keep growing, and growing much faster than it would if they kept selling stock to fund their lifestyle. What's more, is that the loan usually doesn't make a big enough dent in their net worth to keep them from getting another loan to pay off the first one. It's loans all the way down! The answer below is important to understand and I don't think they ELI5'd it. When you die you avoid capital gains taxes on stocks because their value is "stepped up." Basically if you purchased $100k worth of Apple stock and sold it years later for $200k you'd have to pay capital gains taxes on the $100k in profit. But if you die the capital gains taxes disappear and the stock is valued at $200k for estate tax purposes but no capital gains are due.
+3. Trust= Gelir vergisi odemeden personal harcama yapabilecrgin kurum. (TR: Aile Vakfı) Yani şirketten para sana geçmeden (Normalde gelir vergisi burda devreye giriyordu hayat harcamalarını şirketin kartından yapabiliyosun)

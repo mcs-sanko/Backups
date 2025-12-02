@@ -1,0 +1,1 @@
+- Have a gal whose only job is to leave anything that she is doing and call a person the second a lead comes in.

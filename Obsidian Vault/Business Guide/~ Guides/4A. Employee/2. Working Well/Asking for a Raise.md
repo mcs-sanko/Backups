@@ -1,0 +1,1 @@
+- If you do a 3 hour task in one, calculate how much money you are making the company and ask for it.

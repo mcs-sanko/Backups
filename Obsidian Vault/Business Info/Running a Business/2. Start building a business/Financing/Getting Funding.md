@@ -1,0 +1,1 @@
+Give up max 20% equity.

@@ -1,0 +1,1 @@
+- En buyuk problemi foz, sende olup biraz gelistirdiginde rakiplerini markette sollayabilecegin sey uzerine calismak en verimli sey

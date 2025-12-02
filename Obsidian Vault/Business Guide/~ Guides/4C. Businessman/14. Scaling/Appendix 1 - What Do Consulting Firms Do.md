@@ -1,0 +1,13 @@
+- Web 1 –Read only. Web 2 – Read Write Interactive, Web 3 – Read Write Trust Verifiable
+- Hyper Personalization: Very targeted marketing. Even the same TV-series may be marketed with different posters in Netflix for your taste
+- Visual search. Search with images.
+- Even understand the emotions of people at shopping windows too get feedback.
+- Consulting examples
+	- Social media listening to find trending words people use
+	- Data clustering etc. for segmentation.
+	- ` `Recommendation System
+	- Churn prediction
+- He got the idea, built the digital thingymagic. Got funding. Did marketing etc. with the money. Got customers, did businesss. They were at a loss for 3 years.
+- Do marketing measure CAC then doing such choose best marketing method.
+- E-comm. Spend the first money on getting a diverse inventory or fake it like maazon (Refund books if they don’t sell) If you spend the first money on marketing instead, people will come to the ite won’t find what they are looking for and leave. **First you must have a business worth using then you get the customers. First make retention high then generate traffic.**
+- Facebook ads were cheap. Google was very expensive.

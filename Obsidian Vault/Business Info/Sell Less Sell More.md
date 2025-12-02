@@ -1,0 +1,1 @@
+Instead of selling a 100$ product to 10k people, sell a 10k$ product to 100 people. And you dont have to sell them the 10k$ now, you can just sell a 200$/m product over 4 years while getting 2 customers per week.
