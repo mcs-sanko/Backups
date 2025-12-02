@@ -37,6 +37,11 @@
 - [ ] Project Management Eğitimi al (Taylan Ulaş tavsiye edildi -> PMP eğitimi aslen)
 - [ ] Get ready for VC defense
 	- [ ] Copenhagena bakarak dataroom setuplamayı öğren. Sistemlerini tamamen dokümante et.
+- [ ] Learn VC management
+	- They invest in US, EU.
+	- 1. tezleri: Olgunluk gösteren girişimlere büyük yatırımlar
+	- 2. tezleri: Erken aşama girişilere küçük küçük yatırımları.
+	- 3. tezleri (güncel): Girişim sermayesi fonlarına yatırımlar. %2 management fee is worth 
 
 ---
 

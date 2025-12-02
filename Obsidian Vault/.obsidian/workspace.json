@@ -22,23 +22,8 @@
               "icon": "lucide-file",
               "title": "To Do List"
             }
-          },
-          {
-            "id": "abbda431fe449400",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Personal/Logins.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Logins"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,8 +170,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "abbda431fe449400",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "_Personal/Logins.md",
     "To Do List.md",
     "Strategy & Projects/1. Business Development (Strategy)/4. Run a Feasability Analysis/Master Model - V2.xlsm - Kısayol.lnk",
     "Strategy & Projects/1. Business Development (Strategy)/4. Run a Feasability Analysis/4. Run a Feasability Analysis.md",
@@ -196,7 +182,6 @@
     "_Personal/SANKO Masraf Girme/Masraf Girme.md",
     "Strategy & Projects/1. Business Development (Strategy)/4. Run a Feasability Analysis/~$Master Model - V2.xlsm",
     "_Personal/Social/People.canvas",
-    "_Personal/Logins.md",
     "Strategy & Projects/1. Business Development (Strategy)/4. Run a Feasability Analysis/2D315F20",
     "Strategy & Projects/1. Business Development (Strategy)/4. Run a Feasability Analysis/0D842F20",
     "Strategy & Projects/1. Business Development (Strategy)/4. Run a Feasability Analysis/11142F20",
