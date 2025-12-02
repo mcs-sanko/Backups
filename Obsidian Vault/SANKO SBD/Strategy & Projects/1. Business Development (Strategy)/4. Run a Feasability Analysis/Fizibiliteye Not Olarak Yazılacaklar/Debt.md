@@ -1,0 +1,10 @@
+- DSCR: is a debt sizing method. NOI / TDS . Net Operating Income / Total Debt Service. The cushion between the income and the debt. A target DSCR such as 1.25 is aimed by Lenders to ensure safe installation repayments.
+- Debt Sculpting: is a Principal Payment Method tailoring debt payments in parallel with cash flow patterns.
+- Leveled Principal Payment Method: is a principal payment method where the same amount of principal is payed in each period. This results in the overall payments going down over time.
+- Leverage Debt Sizing: is a debt sizing method where the debt is undertaken with a target leverage ratio usually defined either by Debt/Equity or DEbt/Capital
+- FCFF: Available complete cash flow
+- Discount Factor: 1/ (1+r)^n as to Money is worth more today than in the future
+- Enterprise value: Sum (FCFF * Discount Factor) per annum
+- Tranche: A segment of debt. Usually divided wrt. Risk parameters etc and may have different payment plans.
+- Thin Capitalisation Rules: Vergi Gelir - Giderden ödenir. Bu giderler içerisinde kredi faizi de vardır. Ancak devletler veya bankalar bir şirketin kendi sermayesi olmadan büyük oranda krediyle yürütülmesini engellmek için (over leveraged, becomes risky) gider gösterilebilecek maximum kredi faizi miktarını caplerler. Bu miktarı da genelde standard bir debt-to-equity ratio veya ebitdanın bir oranı olarak caplerler. Eğer ki kredi faizleri belilrenen cape göre hesaplanacak maximum miktardan fazlasysa bu fazlalık gider gösterilkemez.
+- Equity Bridge Loan: İlk aşamada özsermaye kullanımını rötarlamak için kullanılan bir kredi tipi. Genelde operasyon başladıktan saonra geri ödenmesi beklenir ve bu aşamada operasyonel kar yetersiz geleceği için bir özsermaye enjeksiyonu ile ödenir.

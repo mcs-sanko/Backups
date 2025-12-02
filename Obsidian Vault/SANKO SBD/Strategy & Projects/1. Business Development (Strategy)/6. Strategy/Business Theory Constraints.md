@@ -1,0 +1,3 @@
+- Supplier sayını en az 2 tut ki yedeğin olsun, supplier probleminden dolayı pğatlama.
+- Supplier sayını aşırı büyük olmadıkça 2 den fazla tutma.
+- Güvenilir supplierlarla çalış, senin yaptırdığın iş az olabilir az diye seni 2. plana atan adamlşarla çalışma.

@@ -1,0 +1,1 @@
+Muhasebe içn hep IFRS kullan. Amerikan sistemi de çok benzer. Yurtdışı finansmanı ararken gerekecek.

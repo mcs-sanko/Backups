@@ -1,0 +1,12 @@
+- 300MW PHES yapıcam
+- EPDK bşrim yatıırm maliyetine bka.
+- Problem 1: Birim yatırım maliyeti çıkmadı daha mevzuatta yok
+- Önlisans öncesi 5% of MW\*Birim Maliyet sermaye kanıtı göster
+- Lisans öncesi 20% of MW\*Birim Maliyet sermaye kanıtı göster
+- Lisans öncesi 70k\*MW teminat mektubu ver
+	- Teminat mektubunu gidip bankaya kendi paranı bağlayarak verebilirsin.
+	- COD'de iade alıcan.
+	- Ama paran orda enflasyona eriyeceği için bankadan teminat mektubu alabilirsin
+	- Banka seni aylık 2% fee ödemen karşılığında stakeler
+
+- Sermaye=Sermaye - kurulmuamış MW iğn other licenses x respective birim maliyetler. Problem 2 bizde böyle bir sermaye yok. 600M civarı arttırım gerekiyor

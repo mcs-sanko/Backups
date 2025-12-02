@@ -1,0 +1,241 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "To Do List.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "To Do List"
+            }
+          },
+          {
+            "id": "abbda431fe449400",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Personal/Logins.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Logins"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "02e4987079f6742d",
+    "type": "split",
+    "children": [
+      {
+        "id": "d1a7dd6ef851c23d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43594b9587705309",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ab2f5f5483e992cd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6ce1d43c2dfecdfb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 354.5
+  },
+  "right": {
+    "id": "4e6ae50180d01bb4",
+    "type": "split",
+    "children": [
+      {
+        "id": "cee76aa9f7de185f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f396011ec647ce6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "5c537b6d36b5ef68",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "342b8ce60494b8d6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9f53258812f54882",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "homepage:Open homepage": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "abbda431fe449400",
+  "lastOpenFiles": [
+    "To Do List.md",
+    "Strategy & Projects/1. Business Development (Strategy)/4. Run a Feasability Analysis/Master Model - V2.xlsm - Kısayol.lnk",
+    "Strategy & Projects/1. Business Development (Strategy)/4. Run a Feasability Analysis/4. Run a Feasability Analysis.md",
+    "Strategy & Projects/1. Business Development (Strategy)/4. Run a Feasability Analysis/C672BF00",
+    "_Personal/SANKO Masraf Girme/Görev Girme.md",
+    "_Personal/SANKO Masraf Girme/Konaklama Talep.md",
+    "_Personal/SANKO Masraf Girme/Masraf Girme.md",
+    "Strategy & Projects/1. Business Development (Strategy)/4. Run a Feasability Analysis/~$Master Model - V2.xlsm",
+    "_Personal/Social/People.canvas",
+    "_Personal/Logins.md",
+    "Strategy & Projects/1. Business Development (Strategy)/4. Run a Feasability Analysis/2D315F20",
+    "Strategy & Projects/1. Business Development (Strategy)/4. Run a Feasability Analysis/0D842F20",
+    "Strategy & Projects/1. Business Development (Strategy)/4. Run a Feasability Analysis/11142F20",
+    "Strategy & Projects/1. Business Development (Strategy)/4. Run a Feasability Analysis/Master Model - V2.xlsm",
+    "Strategy & Projects/1. Business Development (Strategy)/4. Run a Feasability Analysis/Master Model - V1 - with Inline Aggregator - Need monthly for ea - Kopya.xlsm",
+    "Strategy & Projects/1. Business Development (Strategy)/4. Run a Feasability Analysis/Master Model - V1 - with Inline Aggregator - Need monthly for each.xlsm",
+    "Strategy & Projects/1. Business Development (Strategy)/4. Run a Feasability Analysis/17312F20",
+    "_Attachments/_Done List.md",
+    "Strategy & Projects/1. Business Development (Strategy)/6. Strategy/1. Evaluate Feasability Outputs.md",
+    "Strategy & Projects/1. Business Development (Strategy)/4. Run a Feasability Analysis/Fizibiliteye Not Olarak Yazılacaklar/2. Enerji Dağıtımı.md",
+    "Strategy & Projects/1. Business Development (Strategy)/4. Run a Feasability Analysis/Fizibiliteye Not Olarak Yazılacaklar/Debt.md",
+    "Strategy & Projects/1. Business Development (Strategy)/4. Run a Feasability Analysis/Optimization Engine.md",
+    "Strategy & Projects/1. Business Development (Strategy)/5. Present Your Findings/Sensitivity Analysis.md",
+    "Strategy & Projects/1. Business Development (Strategy)/5. Present Your Findings/Scenario Analysis.md",
+    "Strategy & Projects/1. Business Development (Strategy)/5. Present Your Findings/P50 vs P90.md",
+    "Strategy & Projects/1. Business Development (Strategy)/5. Present Your Findings/5. Present Your Findings.md",
+    "Strategy & Projects/1. Business Development (Strategy)/6. Strategy/6. Strategy.md",
+    "Strategy & Projects/1. Business Development (Strategy)/5. Present Your Findings/Normalized Model Outputs.md",
+    "Strategy & Projects/1. Business Development (Strategy)/6. Strategy/Comparative Analysis.md",
+    "Strategy & Projects/1. Business Development (Strategy)/6. Strategy/Comparison Horizon.md",
+    "Strategy & Projects/1. Business Development (Strategy)/6. Strategy/Business Theory Constraints.md",
+    "Strategy & Projects/1. Business Development (Strategy)/6. Strategy/7. Risk Management.md",
+    "Strategy & Projects/1. Business Development (Strategy)/4. Run a Feasability Analysis/Reporting.md",
+    "Strategy & Projects/1. Business Development (Strategy)/4. Run a Feasability Analysis/Debt Model.md",
+    "_Personal/SANKO Masraf Girme/Ulaşım Talep.md",
+    "Strategy & Projects/1. Business Development (Strategy)/4. Run a Feasability Analysis/Fizibiliteye Not Olarak Yazılacaklar/3. Enerji Ticareti.md",
+    "_Attachments/Pasted image 20251023161000.png",
+    "_Attachments/Pasted image 20251117165624.png",
+    "_Attachments/Pasted image 20251118105008.png",
+    "AYIKLA/Guides/Project Lifecycles.canvas",
+    "AYIKLA/Projects/Projects.canvas",
+    "İş Akışı/İş Akışı.canvas",
+    "_Attachments/LFR w Logo.png",
+    "_Attachments/GFR w Logo_0.png",
+    "_Attachments/SCWR w Logo.png",
+    "_Attachments/SFR w Logo.png",
+    "_Attachments/VHTR w Logo.png",
+    "_Attachments/MSR w Logo.png",
+    "_Attachments/Pasted image 20251015151411.png",
+    "Aktif Projeler.canvas"
+  ]
+}

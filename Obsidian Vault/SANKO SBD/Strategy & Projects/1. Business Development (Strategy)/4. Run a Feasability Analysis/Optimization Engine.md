@@ -1,0 +1,4 @@
+- Gearing 80 ile başla. Required money 1000, required financing 800. DSCR limits how much financing we can get so we get 710 in financing. So the DSCR limited DS we can do can not match what we wanted to do at G80.
+- Take G71 (max achieved g last run.) Now required financing is 710, but the financing we can get is 770 thanks to our lower required DS.
+- Take G77. Now required financing is 750, what we can achieve is 740.
+- And so the required financing and the financing we can compensate due to the DSCR dead zone gets closer and closer. Once converged the gearing applied is the gearing we can achieve hence the financ ing scheme works!
