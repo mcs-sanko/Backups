@@ -40,7 +40,7 @@
 - [ ] Learn VC management
 	- They invest in US, EU.
 	- 1. tezleri: Olgunluk gösteren girişimlere büyük yatırımlar
-	- 2. tezleri: Erken aşama girişilere küçük küçük yatırımları.
+	- 2. tezleri: Erken aşama girişilere küçük küçük yatırımlar. 3. yıldan sonra iyi gidiyorsa follow up investment.
 	- 3. tezleri (güncel): Girişim sermayesi fonlarına yatırımlar. %2 management fee is worth 
 
 ---
