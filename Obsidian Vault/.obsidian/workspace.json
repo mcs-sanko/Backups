@@ -8,8 +8,9 @@
         "type": "tabs",
         "children": [
           {
-            "id": "20dbe23342429126",
+            "id": "bb6328f8bef5d396",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -17,6 +18,7 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "Types of Businesses"
             }
@@ -168,14 +170,26 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "20dbe23342429126",
+  "active": "bb6328f8bef5d396",
   "lastOpenFiles": [
+    "Ayıklanacak/Oracle/~ Guides/6. Reputation/Fame.md",
+    "Ayıklanacak/Oracle/~ Guides/6. Reputation/Creating Influence.md",
+    "Ayıklanacak/Oracle/~ Guides/6. Reputation/1. Money is Influence.md",
+    "Business/Types of Businesses.md",
+    "Ayıklanacak/Oracle/~ Guides/5. Tax/2. How to Pay the Least Tax.md",
+    "Ayıklanacak/Oracle/~ Guides/5. Tax/1. Why Pay the Least Tax.md",
+    "Ayıklanacak/Oracle/Investor/Free Real Estate.md",
+    "Ayıklanacak/Oracle/Investor/Derivatives (question mark).md",
+    "Ayıklanacak/Oracle/Investor/Investor.md",
+    "Ayıklanacak/Oracle/How to get rich.md",
+    "Ayıklanacak/Oracle/Oracle.md",
+    "To Do List.md",
+    "To Do List 2.md",
     "Ayıklanacak/Oracle/Businessman/Businessman.md",
     "Ayıklanacak/Oracle/~ Guides/4C. Businessman/2. Who is an Entrepreneur/7. Building a Good Team.md",
     "Ayıklanacak/Oracle/~ Guides/4C. Businessman/2. Who is an Entrepreneur/You Either Play Completely Dirty or Completely Clean.md",
     "Ayıklanacak/Oracle/~ Guides/4C. Businessman/13. Marketing/4. Branding.md",
     "Ayıklanacak/Oracle/~ Guides/4C. Businessman/13. Marketing/3. 3 Lines Theory - Aim of Marketing.md",
-    "Business/Types of Businesses.md",
     "Ayıklanacak/Oracle/~ Guides/4C. Businessman/2. Who is an Entrepreneur/6. Building Alliances.md",
     "Ayıklanacak/Oracle/~ Guides/4C. Businessman/2. Who is an Entrepreneur/4. To Cofound or Not to Cofound.md",
     "Ayıklanacak/Oracle/~ Guides/4C. Businessman/2. Who is an Entrepreneur/2. Principles of Entrepreneurship.md",
@@ -186,18 +200,6 @@
     "Ayıklanacak/Oracle/~ Guides/4C. Businessman/1. Getting into the Entrepreneur Mindset/8. In Order to Create Wealth, You Must Obtain Leverage.md",
     "Business/2. Embody A Successful Entrepreneur's Mindset",
     "Business/1. Why be an Entrepreneur",
-    "Ayıklanacak/Oracle/~ Guides/4C. Businessman/1. Getting into the Entrepreneur Mindset/5. What to Sell for Wealth - Build a Company.md",
-    "Ayıklanacak/Oracle/~ Guides/4C. Businessman/1. Getting into the Entrepreneur Mindset/12. Summary via Millionaire Fastlane.md",
-    "Ayıklanacak/Oracle/~ Guides/4C. Businessman/1. Getting into the Entrepreneur Mindset/11. Quit Your 9-5, The Leap of Faith.md",
-    "Ayıklanacak/Oracle/~ Guides/4C. Businessman/1. Getting into the Entrepreneur Mindset/10. Your Assets.md",
-    "Ayıklanacak/Oracle/~ Guides/4C. Businessman/1. Getting into the Entrepreneur Mindset/1. Why Quit the 9-5 Mindset.md",
-    "Ayıklanacak/Oracle/~ Guides/4C. Businessman/1. Getting into the Entrepreneur Mindset/3. Do You Want to be Rich or Is it Wealthy You Really Want to Be.md",
-    "Ayıklanacak/Oracle/~ Guides/4C. Businessman/1. Getting into the Entrepreneur Mindset/0. How I Got Into Entrepreneurship.md",
-    "Ayıklanacak/Oracle/~ Guides/4C. Businessman/2. Who is an Entrepreneur/The Mindset of Being a Succesfull Entrepreneur.md",
-    "To Do List.md",
-    "Ayıklanacak/Oracle/Businessman/~ Rejects/Sticky Services.md",
-    "Ayıklanacak/Oracle/Businessman/~ Rejects/Solo Mining BTC.md",
-    "Ayıklanacak/Oracle/Businessman/~ Rejects/Easy Remote Job with Good Pay.md",
     "Ayıklanacak/To Be Organized/1-Entrepreneurship/Business Plan/Business Plan Outline Explained — 2021 Template and Guide.pdf",
     "Business",
     "Ayıklanacak/Oracle/Money-Flow.canvas",
