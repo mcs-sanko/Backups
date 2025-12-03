@@ -1,1 +1,0 @@
-In order to create a youtube channel first look at big reddits and then go on from there

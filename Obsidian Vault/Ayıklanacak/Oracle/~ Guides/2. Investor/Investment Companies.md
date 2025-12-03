@@ -1,5 +1,0 @@
-- VC: Startups
-- Private Equity, Holdings: Other Companies
-- Investment Banking: Publicly Traded Commodities
-- Mutual Funds: Anything, funded by the public
-- Hedge Funds: Anything, funded privately

@@ -1,1 +1,0 @@
-Start from a small office with a small team that can be fed with 2 pizzas, produce and or sell one thing very well

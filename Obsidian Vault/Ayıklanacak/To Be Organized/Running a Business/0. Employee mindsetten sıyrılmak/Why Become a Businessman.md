@@ -1,1 +1,0 @@
-- - In the capitalist system nobody is going to pay you what you are worth. They cant they wouldnt make a profit. So you will either get paid less than what you are worth working for somebody else or you will be paid more than you are worth by making people work for you

@@ -1,1 +1,0 @@
-- As an entrepreneur learn enough to be dangerous. You don't need to be the best at something but learn enough to be able to show some kind of a prototype to the world, learn enough to get the MVP into the hands of the people. Then you can attract people who are much better than you at making that product its best self.

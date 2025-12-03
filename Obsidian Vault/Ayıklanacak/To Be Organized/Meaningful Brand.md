@@ -1,1 +1,0 @@
-You cant creat a meaningful brand that speaks to people with only doing financially rational things as a matter of fact most meaningful discisions will be financially unwise such as agifting a teddy bear to kids in that house when montajing washing machines or putting tin foils on pellegrino cans et.c

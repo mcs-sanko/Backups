@@ -1,4 +1,0 @@
-- First impressions last.
-- Doing good work is not enough being liked is also important.
-- Being seen as a power house is an asset. You need to be the #1 results maker in the firm in the beginning, then nobody will question you.
-- 

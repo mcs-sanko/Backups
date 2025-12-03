@@ -1,1 +1,0 @@
-You will learn more executing in a week then 3 months researching the topic. So create a tasting scenario where you can for example test cold calling and trying to sell something to a business and try that for a week. Weeklong test scenarios, best for learning.

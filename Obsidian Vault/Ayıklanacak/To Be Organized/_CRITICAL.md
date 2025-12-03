@@ -1,2 +1,0 @@
-- Just get one thing extremely right. Like if you open a sandwich shop just get the sandwich so right that whoever eats it says FUCK this is the best sandwich I had in my life. That person will keep coming back, whatever the price, however long the line and regularly. So get one thing REALLY REALLY CORRECT.
-- Good distrubition (Getting to the customer) beats a good product every day. That's why sales is king.

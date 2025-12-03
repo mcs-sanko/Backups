@@ -1,2 +1,0 @@
-
-E etrafını ağız eğecek çürük adamlarla doldurdu. Onlar gidip sağlam adam alırlar mı. Onlar da çürük alıyor, baş çürük olunca aşağı doğru herkes çürüyor. Çürük bir şey var onu düzeltecek adam ağız eğecek biri olamaz. Üstler hadi lan dicek adamlar lazım. ==Unquestionable Ethics

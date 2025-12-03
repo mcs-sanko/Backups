@@ -1,1 +1,0 @@
-If you dont find meaning in your day job, use it as a means to an end and start doing your side project for meaning possibly converting it into your actual source of income in the future

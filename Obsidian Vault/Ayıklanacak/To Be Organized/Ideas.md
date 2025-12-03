@@ -1,1 +1,0 @@
-IDeas are worth nothing, execution and marketing is worth everything. All people are too bus to copy yoour idea let alone execute their own.

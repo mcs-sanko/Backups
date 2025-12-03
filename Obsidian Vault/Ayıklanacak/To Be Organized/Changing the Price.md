@@ -1,2 +1,0 @@
-- You change the price for all new customers that's easy.
-- But for old customers with recurring payments tell them we are making these improvements and this is the pricepoint we have to know be at to keep being in business given inflationary pressure etc. Here is the thing, here is all the things you are gonna get I wanna honor our past agreement so I will be grandfathering you in with our old price until this date. The only way for me to ethically keep my promise to gie you the best service as possible is to reflect that in the prices.

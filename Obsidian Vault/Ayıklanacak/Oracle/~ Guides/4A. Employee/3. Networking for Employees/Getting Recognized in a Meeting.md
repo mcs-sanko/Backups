@@ -1,3 +1,0 @@
-- Her toplantının sonunda bir soru sor. Öyle bir soru sor ki herkes bu soruyu kim sordu diye dönüp baksın.
-- Sonra benzer şekilde 2. bir soru daha sor. (Cementing yourself)
-- Ama 3. bir soru daha sorma, daha soruyor dedirtme.

@@ -1,3 +1,0 @@
-- Any relations team (Investor, Human, Public) should be led by people that people like
-- Be and hire people that can: Think clearly, communicate clearly. (Professional Skills)
-- Are organized. (SANKOdaki insanların zamanının %80 i sadece organize olamya çalışarak geçiyor, more than rarely literally trying to organize info they created in the first place)

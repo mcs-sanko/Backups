@@ -1,2 +1,0 @@
-- Bonds of Rising Countries: Ülkelere güven olmaz borcunu ödememek için bir sürü para basarlar bunlar. Para basma yetkisi olanın parasına da bonduna da güven olmaz.
-- Bonds, International Specific Stocks: For Betting on Countries (Ürün getirisi + Currency getirisi -> Bunu sadece zamanın olcaksa yap yoksa yapma! Ülkelere güven olmaz, Çin gibi yuanı öldürür herif fırlaması gereken şeyi.)

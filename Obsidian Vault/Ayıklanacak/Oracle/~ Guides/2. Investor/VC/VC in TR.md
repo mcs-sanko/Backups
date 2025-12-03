@@ -1,1 +1,0 @@
-TR'de VC yapılır mı parayı kazanınca şirkete koyma mantalitesine sahip insanlar bulmak lazım. TR çok kriz gördüğü için genelde parayı kazanınca cebe koyma mantalitesiyle büyüyen çok çok büyük bir kesim var.

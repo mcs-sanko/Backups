@@ -1,1 +1,0 @@
-Network kurmadan kimsenin kapisindan girilmiyor. Biri uzerinden aranmasi lazim ki o kapidan kabul al

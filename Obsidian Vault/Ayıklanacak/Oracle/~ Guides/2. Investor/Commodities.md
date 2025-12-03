@@ -1,5 +1,0 @@
-- Agricultural
-- ==Energy==
-- Forestry
-- ==Industrial Metals==
-- Precious Metals

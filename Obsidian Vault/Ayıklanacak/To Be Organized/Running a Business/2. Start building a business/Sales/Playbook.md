@@ -1,1 +1,0 @@
-Inviting people by convincing: Are you a man who loves a good breakfast? Hell yeah. Then you're gonna love what I got for you. The first yes allows for the invitation to be accepted much easire.

@@ -1,1 +1,0 @@
-First find the thing you can do without it feeling like work, then commit fully to it. People spend too much time doing and too little time searching, you shouldn't commit any more time to something that you dont like.

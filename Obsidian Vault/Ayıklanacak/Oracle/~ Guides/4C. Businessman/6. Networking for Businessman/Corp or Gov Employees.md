@@ -1,1 +1,0 @@
-You cant trust anyone working for a corporation or government. They are backed up there is no reason for them to not let you out to dry.

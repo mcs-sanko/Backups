@@ -1,1 +1,0 @@
-- If they hate you enough, they will find legal grounds to fuck you. The best asset in an estate is privacy, being unknown, doing whatever you do from the shadows

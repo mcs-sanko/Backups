@@ -1,3 +1,0 @@
-Spot: Anlık alış veya satışa denir.
-Long: Bir vadeli kontrattır. Para verilerek ürün alınır ve vade sonunda ürün satıcısı paranızı ürün karşılığında size geri vereceğini taahhüt eder. Ürün tutulduğu süre içerisinde kar sağlar, ana paraya dokunulmaz.
-Short: Bir vadeli kontrattır. Ürün ödünç alınır ve vade sonunda aynı miktar ürün geri iade edilir. Ürün alındıktan sonra satılır ve vade sonuna kadar geri alınır. Ürünün fiyatının düşmesi durumunda aynı miktar ürünün ilk satışı ile vadeden önce piyasadan geri alışındaki fark kar olarak yansır.

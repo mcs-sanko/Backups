@@ -1,5 +1,0 @@
-- 1 Güzel Ev
-- 1 Güzel Araba
-- Passive income getirecek
-	- Bununla yemek
-	- Tatik

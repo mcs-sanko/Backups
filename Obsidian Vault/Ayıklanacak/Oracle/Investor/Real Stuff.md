@@ -1,1 +1,0 @@
-Sirkulasyondaki paranin cok buyuk vir kidminin dinital olmasi apokaliptik senoryalar icin parani nasil cekip kullabacaksin sorusunu doguruyor -> Invest in useful stuff not money nor gold. A gallon of water has more use than a brick of silver.

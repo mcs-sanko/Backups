@@ -1,1 +1,0 @@
-Anything that can't be automated can't be scaled!

@@ -1,1 +1,0 @@
-- Be pessimistic in the short term and optimistic in the long term. Plan for everything to go wrong in the short term and thread lightly. Most people overestimate what they can achieve in 5 years and underestimate what they can achieve in 10 years.
