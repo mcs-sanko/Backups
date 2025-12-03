@@ -44,13 +44,3 @@ If you were establishing a classical business (e.g., a high-end restaurant, a re
 	- Creative (Adobe Suit)
 	- Professional (Microsoft Suite)
 
-
-
-### Curations
-Banking: Bank
-Credit Card: 
-Investor Platform:
-Investor Strategy:
-Profession Choice
-Employment Choice
-Business Choice

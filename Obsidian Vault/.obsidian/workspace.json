@@ -24,20 +24,21 @@
             }
           },
           {
-            "id": "206a94e05baddb5e",
+            "id": "5f849fd2510741a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biz World/Soft Skills/Meetings/For Getting Presented At.md",
+                "file": "To Do List.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "For Getting Presented At"
+              "title": "To Do List"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,8 +185,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "43594b9587705309",
+  "active": "5f849fd2510741a3",
   "lastOpenFiles": [
+    "To Do List 2.md",
+    "Biz World/Types of Businesses.md",
     "Biz World/Soft Skills/Meetings/For Getting Presented At.md",
     "Biz World/Soft Skills/Meetings/Deal Making Toplantısı.md",
     "Biz World/Soft Skills/Networking.md",
@@ -193,11 +196,9 @@
     "Strategy & Projects/5. Optimization/5. Optimization.md",
     "Strategy & Projects/5. Optimization/6. Optimize Tax.md",
     "_Attachments/Pasted image 20251204010954.png",
-    "Biz World/Types of Businesses.md",
     "Strategy & Projects/4. Operations/4. Operations.md",
     "Strategy & Projects/5. Optimization",
     "Strategy & Projects/6. Automation/1. Options.md",
-    "To Do List 2.md",
     "Ayıklanacak/To Be Organized/_Rejects.md",
     "Ayıklanacak/Oracle/Investor/Investor.md",
     "Ayıklanacak/Oracle/Money-Flow.canvas",
