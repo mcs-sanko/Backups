@@ -1,14 +1,6 @@
 
 
 
-- [ ] Bizim RES, HES klasörleri doğru, onların içinde parked, live, rejected da doğru. Livein içinde artık live olmayanları parkla ve livein iine klasörlerini aç.
-	- [ ] Reports & SMRs in obisidian go into Strategy Folder
-	- [ ] SMRs in projects goes into Strategy Folder
-	- [ ] For projects. 0 No-Go, 1 Parked, 2 Assessing, 3 Go
-	- [ ] RES, HES vs klasörlerinin içini bu şekilde düzenle. Projeler klasörlerinde eğer strateji varsa onları da doğeu yere götür
-- [ ] Pompaj HES'i yap artık!
-- [ ] Liya fizibilite yap!
-
 
 
 Burayı düzenle:

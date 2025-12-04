@@ -1,0 +1,1 @@
+![[JES 4 capex kıırlımları.png]]

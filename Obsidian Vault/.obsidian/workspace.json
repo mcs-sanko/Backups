@@ -22,34 +22,6 @@
               "icon": "lucide-file",
               "title": "To Do List"
             }
-          },
-          {
-            "id": "02ef3c0f3448b92b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Personal/Logins.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Logins"
-            }
-          },
-          {
-            "id": "5576e5d6ec4ec2d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Strategy & Projects/1. Business Development (Strategy)/4. Run a Feasability Analysis/4. Run a Feasability Analysis.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "4. Run a Feasability Analysis"
-            }
           }
         ]
       }
@@ -57,15 +29,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "02e4987079f6742d",
+    "id": "57c361ffe639a3d0",
     "type": "split",
     "children": [
       {
-        "id": "d1a7dd6ef851c23d",
+        "id": "ec6fd1555622cd0c",
         "type": "tabs",
         "children": [
           {
-            "id": "43594b9587705309",
+            "id": "ddd5bc547c719b4c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -78,7 +50,7 @@
             }
           },
           {
-            "id": "ab2f5f5483e992cd",
+            "id": "4b8ae4874ce8cca1",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -95,7 +67,7 @@
             }
           },
           {
-            "id": "6ce1d43c2dfecdfb",
+            "id": "c3dcfa4586d2b237",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -108,18 +80,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 354.5
+    "width": 300
   },
   "right": {
-    "id": "4e6ae50180d01bb4",
+    "id": "6013687abe5b7f05",
     "type": "split",
     "children": [
       {
-        "id": "cee76aa9f7de185f",
+        "id": "7bed9587b826fe19",
         "type": "tabs",
         "children": [
           {
-            "id": "9f396011ec647ce6",
+            "id": "dca3924d5ee56f24",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -137,7 +109,7 @@
             }
           },
           {
-            "id": "5c537b6d36b5ef68",
+            "id": "d7d800e67f2601be",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -150,7 +122,7 @@
             }
           },
           {
-            "id": "342b8ce60494b8d6",
+            "id": "5e1fe0aaac453f91",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -165,7 +137,7 @@
             }
           },
           {
-            "id": "9f53258812f54882",
+            "id": "ceb8635ef7a1681b",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -200,56 +172,31 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "_Attachments/Pasted image 20251204010954.png",
-    "Strategy & Projects/5. Optimization/6. Optimize Tax.md",
-    "Strategy & Projects/5. Optimization/5. Optimization.md",
-    "Strategy & Projects/5. Optimization",
-    "_Attachments/Sağlık Raporları/wallpaper.png",
-    "_Attachments/Sağlık Raporları/vesikalık.jpg",
-    "_Attachments/Sağlık Raporları/MÇS - Kulak Odiyogramı.pdf",
-    "_Attachments/Sağlık Raporları/MÇS - Kan Grubu Belgesi.pdf",
-    "_Attachments/Sağlık Raporları/MÇS - Hemogram Testi Sonucu.pdf",
-    "_Attachments/Sağlık Raporları/MÇS - Göz Muayenesi Sonucu.pdf",
-    "_Attachments/Sağlık Raporları/MÇS - Akciğer Filmi Raporu.pdf",
-    "_Attachments/Sağlık Raporları",
-    "Strategy & Projects/0. Foldering Structure/RES Çatalca/2027.01 Kurulum Projesi ~ 2027.02 Go/02. Kabuller/02 .Ticaret/03. Danışman Sonuçları/USD TRY Forecast.md",
-    "Strategy & Projects/0. Foldering Structure/RES Çatalca/2027.01 Kurulum Projesi ~ 2027.02 Go/02. Kabuller/02 .Ticaret/03. Danışman Sonuçları/PTF Forecast.md",
-    "Strategy & Projects/0. Foldering Structure/RES Çatalca/2027.01 Kurulum Projesi ~ 2027.02 Go/03. Fizibilite/Fizibilite Arşivi/Tarih - Senaryolar - Sonuç.md",
-    "Strategy & Projects/0. Foldering Structure/RES Çatalca/2027.01 Kurulum Projesi ~ 2027.02 Go/03. Fizibilite/Fizibilite Arşivi/2027.03.24 - Trafo Kurmama Senaryoları - Trafo Kurmak Daha Mantıklı.md",
-    "Strategy & Projects/0. Foldering Structure/RES Çatalca/2027.01 Kurulum Projesi ~ 2027.02 Go/02. Kabuller/02 .Ticaret/03. Danışman Sonuçları",
-    "Strategy & Projects/0. Foldering Structure/RES Çatalca/2027.01 Kurulum Projesi ~ 2027.02 Go/04. Yatırım Kararı Dokümanı/2027.02 Yatırım Kararı Dokümanı.md",
-    "Strategy & Projects/0. Foldering Structure/RES Çatalca/2027.01 Kurulum Projesi ~ 2027.02 Go/04. Yatırım Kararı Dokümanı/2027.02 Yatırım Kararı Dokümanı ~ Go.md",
-    "Strategy & Projects/0. Foldering Structure/RES Çatalca/2027.01 Kurulum Projesi ~ 2027.02 Go/03. Fizibilite/Fizibilite Exceli.md",
-    "Strategy & Projects/0. Foldering Structure/RES Çatalca/2027.01 Kurulum Projesi ~ 2027.02 Go/03. Fizibilite/Fizibilite Arşivi",
-    "Strategy & Projects/0. Foldering Structure/RES Çatalca/2027.01 Kurulum Projesi ~ 2027.02 Go/02. Kabuller/02 .Ticaret",
     "Strategy & Projects/0. Foldering Structure/0. Foldering Structure.md",
-    "Biz World/Soft Skills/Meetings/Takım Toplantısı.md",
-    "Biz World/Soft Skills/Meetings/For Getting Presented At.md",
-    "Biz World/Soft Skills/Meetings/For Partnership.md",
-    "Biz World/Soft Skills/Meetings/Deal Making Toplantısı.md",
-    "Biz World/Soft Skills/Networking.md",
-    "Biz World/Soft Skills/Deal Making.md",
-    "Biz World/Types of Businesses.md",
-    "_Attachments/_Done List.md",
     "To Do List.md",
+    "Strategy & Projects/1. Business Development (Strategy)/4. Run a Feasability Analysis/CAPEX Kırılımı.md",
+    "_Attachments/JES 4 capex kıırlımları.png",
     "Strategy & Projects/1. Business Development (Strategy)/4. Run a Feasability Analysis/4. Run a Feasability Analysis.md",
-    "_Personal/Logins.md",
-    "_Personal/SANKO Masraf Girme/Görev Girme.md",
-    "_Personal/SANKO Masraf Girme/Konaklama Talep.md",
-    "_Personal/SANKO Masraf Girme/Masraf Girme.md",
-    "_Personal/Social/People.canvas",
-    "Strategy & Projects/1. Business Development (Strategy)/6. Strategy/1. Evaluate Feasability Outputs.md",
-    "_Attachments/Pasted image 20251023161000.png",
-    "_Attachments/Pasted image 20251117165624.png",
-    "_Attachments/Pasted image 20251118105008.png",
-    "AYIKLA/Guides/Project Lifecycles.canvas",
-    "AYIKLA/Projects/Projects.canvas",
-    "İş Akışı/İş Akışı.canvas",
+    "Biz World/SMRs-0/0A. Executive Summary.md",
+    "Biz World/SMRs-0/1. MSR Pathway.md",
+    "Strategy & Projects/1. Business Development (Strategy)/5. Present Your Findings/5. Present Your Findings.md",
+    "Biz World/SMRs-0/0B. Reactor Images.md",
+    "_Attachments/VHTR w Logo.png",
+    "_Attachments/SFR w Logo.png",
+    "_Attachments/SCWR w Logo.png",
+    "_Attachments/MSR w Logo.png",
     "_Attachments/LFR w Logo.png",
     "_Attachments/GFR w Logo_0.png",
-    "_Attachments/SCWR w Logo.png",
-    "_Attachments/SFR w Logo.png",
-    "_Attachments/VHTR w Logo.png",
-    "Aktif Projeler.canvas"
+    "Biz World/Types of Businesses.md",
+    "To Do List 2.md",
+    "Reports/IEA Özet.md",
+    "Biz World/Finansman/Horizon Europe.md",
+    "_Attachments/Pasted image 20251204100457.png",
+    "Biz World/Finansman/Finansman.md",
+    "_Attachments/Pasted image 20251204100336.png",
+    "_Attachments/Pasted image 20251204100159.png",
+    "Biz World/Finansman/TUBİTAK.md",
+    "Biz World/Finansman",
+    "Strategy & Projects/1. Business Development (Strategy)/4. Run a Feasability Analysis/099ACE10"
   ]
 }

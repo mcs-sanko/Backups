@@ -1,0 +1,1 @@
+Her TRL'de TUBİTAK veya Horizon Europe'dan vs. hibe/kredi alabiliyosun.

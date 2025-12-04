@@ -50,48 +50,20 @@
 	- [ ] Startup dataroom, from Copenhagen
 ---
 
+- [x] Strateji Klasörünü tamamen düzenle. (MAJOR OVERHAUL) ✅ 2025-12-04
+	- [x] Reports & SMRs in obisidian go into Strategy Folder ✅ 2025-12-04
+	- [x] SMRs in projects goes into Strategy Folder ✅ 2025-12-04
+- [x] PC'deki proje dosyalarını sharepointe koy ✅ 2025-12-04
 
-Dolar euro geçmişi olacaksa otomatik doldurt.
+- [ ] Create a Strategy Folder and Guide before biz dev in obsidian
+	- [ ] Kurduğun düzeni not al. En son özetler tek göz önünde olsun veya direkt dışarıya açılabilir bir dataroom hep separate olsun.
 
-Nasıl rpoje seçip kullanılmayanı sildirtcem beyin fıtınası yap. Birden falza debt tipini karşılaştırmak istesem ikisini de silmemem ama sadece birini kullanmam lazım o nasıl olucak
+- [ ] Bizim RES, HES klasörleri doğru, onların içinde parked, live, rejected da doğru. Livein içinde artık live olmayanları parkla ve livein iine klasörlerini aç.
+	- [ ] For projects. 0 No-Go, 1 Parked, 2 Assessing, 3 Go
+	- [ ] RES, HES vs klasörlerinin içini bu şekilde düzenle. Projeler klasörlerinde eğer strateji varsa onları da doğeu yere götür
+- [ ] Pompaj HES'i yap artık!
+- [ ] Liya fizibilite yap!
 
-
-Model geçmişten başlarsa
-
-USD tarihiden gelip predicitona geçecek.
-
-Model bugünden başlarsa
-
-USD bugünden başlayıp predictiona geçecek.
-
-Model gelecekten başlarsa
-
-USD prediction kısmını croplayacak
-
-
-Data rooma erişip bak. december first week
-Tech ve financial internal meeting. mid december
-
-
-Linkedin
-Aslak theoretical phsicist
-Thomas material scientist
-Mike CFO
-
-- [x] Obsidian sigorta yaptır ✅ 2025-12-02
-
-
-- [ ] Koray Beyden HES iş planı al
-
-- [ ] 6349.02 Masraf al
-- [ ] RES YEKA ihale izle 📅 2025-12-11
-
-
-
-- [ ] ESCO için ortaklıklı ve ortaklıksız duyarlılık analizi for EPC fiyatı. Kendimiz kaç EPC'ye yapsak daha iyi oluyor
-
-
-- [ ] Köseler RES'e bak fizibilite çalış.
 
 
 - [ ] Liya Van bak fizibilite çalış.
@@ -140,6 +112,53 @@ Mike CFO
 	Optimizasyon çalışmasında kullanılan birim fiyatlar, Devlet Su İşleri (DSİ) tarafından yayımlanan güncel birim fiyatlar ile piyasa eğilimleri dikkate alınarak ülke genelindeki ortalama maliyet düzeyini yansıtacak şekilde kullanılmıştır. -> ulaşması zor bir yerse fiyatlar kötü olur. ki ulaşması zor bir yer sanıcam.
 
 
+
+
+
+
+
+
+Dolar euro geçmişi olacaksa otomatik doldurt.
+
+Nasıl rpoje seçip kullanılmayanı sildirtcem beyin fıtınası yap. Birden falza debt tipini karşılaştırmak istesem ikisini de silmemem ama sadece birini kullanmam lazım o nasıl olucak
+
+
+Model geçmişten başlarsa
+
+USD tarihiden gelip predicitona geçecek.
+
+Model bugünden başlarsa
+
+USD bugünden başlayıp predictiona geçecek.
+
+Model gelecekten başlarsa
+
+USD prediction kısmını croplayacak
+
+
+Data rooma erişip bak. december first week
+Tech ve financial internal meeting. mid december
+
+
+Linkedin
+Aslak theoretical phsicist
+Thomas material scientist
+Mike CFO
+
+- [x] Obsidian sigorta yaptır ✅ 2025-12-02
+
+
+- [ ] Koray Beyden HES iş planı al
+
+- [ ] 6349.02 Masraf al
+- [ ] RES YEKA ihale izle 📅 2025-12-11
+
+
+
+- [ ] ESCO için ortaklıklı ve ortaklıksız duyarlılık analizi for EPC fiyatı. Kendimiz kaç EPC'ye yapsak daha iyi oluyor
+
+
+- [ ] Köseler RES'e bak fizibilite çalış.
 
 
 - [ ] SMR fırsat analizi dokümanı 📅 2025-11-20 
