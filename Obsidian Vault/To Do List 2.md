@@ -1,0 +1,97 @@
+
+
+
+- [ ] Bizim RES, HES klasörleri doğru, onların içinde parked, live, rejected da doğru. Livein içinde artık live olmayanları parkla ve livein iine klasörlerini aç.
+	- [ ] Reports & SMRs in obisidian go into Strategy Folder
+	- [ ] SMRs in projects goes into Strategy Folder
+	- [ ] For projects. 0 No-Go, 1 Parked, 2 Assessing, 3 Go
+	- [ ] RES, HES vs klasörlerinin içini bu şekilde düzenle. Projeler klasörlerinde eğer strateji varsa onları da doğeu yere götür
+- [ ] Pompaj HES'i yap artık!
+- [ ] Liya fizibilite yap!
+
+
+
+Burayı düzenle:
+- [ ] SANKO'da rotasyon:
+	- [ ] Creat THE Model. Model creation framework. The code that creates the excels that are models.
+	- [ ] I want you to tell me all the püf noktaları you deem valuable to run a business succesfully or scale it or start it.
+	- [ ] Aralık sonuna kadar SANKO modelden sunuma kadar linkleyerek bağı yap.
+	- [ ] Bütün iş planı öğren muhsin bey ve hakan beyden. Bütün kalemleri öğren. Hepsini insertle. 4 master models for ges jes res hes
+	
+	- [ ] SANKO'ya JV bul, kendi rolodexini oluştur. Tell sanko you are gonna need to promote me and çetin bey bcs. we are finding these partners but when they ask what our capacity is in the company we get stood lke chumps cause wi am uzman yardımcısı and he is müdür.
+	- [ ] SANKO'ya hibedar bul kendi rolodexini oluştur EPDR, Tubitak vs.
+
+	- [ ] Önce proje geliştirmeyi tamamen streamlinela, bot yaz. Again, similar to the multivariablle ooptimization. Do we really want to ease their workload? What about just seeing if we can do it? Well. Do it via reneissance. Wll, would our ai capabilities be tested rigourously enough with reneissance. To show in portfolio for miço?
+		- Botlarla sunumu, model kulanmayı vs. automatize et. Mevzuat takipten başla, danışmanlara mail atmaya ladar adım adım götür. Tr de nerede kurulura nasıl bakar, fizibilite modelleme, bankalara mail atmaya kadar. Have the kill switch in hand to use after you quit. Disconnect server or what? Dead mans switch
+		- Botlara komplike bir maintainment manual yaz, sen olmadan maintinleyemesinler, danışman olarak geri çağırmak zorunda kalsınlar.
+	- [ ] Sermaye arttırmayı öğren. Adil Beyk üçük balığız diyor, haklı. Yiğit Bey bunu yapmaya çalışıyormuş bak ya fon bulucan teşvik programlarından ebrd, ya joint venture bulucan alcazaar gibi ya ipo yapıcan.
+	- [ ] Create the multivariable optimizer for sanko.
+		- Wait, what?
+		- Why? We dont want to waste time easing their jobs?!
+		- Bir şey öğreniyo olucan mı?
+	- [ ] Learn the policy making criteria.
+	- [ ] Sonra VC'ye geç, VC'yi de klonla
+	- [ ] Rotasyonla en son ÇİMKO Arge'ye geç hem oranın da işlerini yap hem de bir sonraki adımın için teknokentte kontakt kuradur.
+
+
+	- [ ] Get smr ready for cero atomics.
+
+	- Macro Data Predictions
+	- Energy Production Forecasting
+	- Energy Trading Optimization
+	- Statistical Modelling for CAPEX needs
+	- OPEX Escalations
+	- Tax Strategy
+	- Lender Case Modelling, Finance Structuring 
+	- Deal, M&A, Exit Optimizations
+
+
+#### Benim Beklentilerim
+Amaç işin işletme tarafını görmek. Nasıl iş alınır, kimden iş alınır, bu iş nasıl yapılır ve kar nasıl edşkşr, kar nasıl kullanılırı görmek. Dude yes, our feasability analysis scenario is literally the complete thing I should have always been working on.
+
+1. İş ihale üzerinden alınır veya private connectiondan alınır
+2. Kurumsallarda ve devlette iş için ne yapılacağı nasıl yapılacağı neredeyse noktası noktasına yazılıdır, zaten yazılı olmasa işin iyi mi kötü mü yapıldığı ölçülemez.
+3. Bu iş adım adım yapılır. Yapılacak iş bilindikten sonra inhouse yapılabilecekler in house yapılamayacaklar ise outsourcelanarak yapılır.
+4. Yukarıdakilerden hepsi körü körüne yapılırsa kar edilemeyebilir bu yüzden en baş aşamada bu işi yapsak nasıl yaparız, sırayla nelere ne kadar gider harcarız ne kadar kar ederiz ya da ne kadara yapabiliriz diye hesaplanmalı. Feasability analysis, as long as you have a good feasability analysis it is not risk it is just business. You do what you planned to do and you earn what you planned to earn.
+3. Edilen kar, şirket giderleri, amortisman ve deplasman, vergi exemptionları ve yatırımlar ile en verimli şekilde değerlendirilir.
+4. Create a digital team for
+	1. Financial Modelling? Possibly with the right framework for the agents to use. Dynamic financial modelling
+	2. Sunuma çevrilmesi
+	3. Create a dynamic financial modelling framework.
+		1. In Excel, everything in front of you, naive plotting etc., logical formatting etc.
+		2. Traceable, straightforward logic
+		3. Durum çözümlemesinde sensitivity analysis otomatik yapılabiliyornmuş
+		4. Add in types of earnings, costs, debt, tax. Different timeline constraints
+
+
+#### Sorumluluklar
+
+## M. Çağatay Sipahioğlu
+##### Strategic Financial Modeller
+---
+
+Lokasyon
+- Ankara
+- İstanbul (Ayda bir)
+
+Main Sorumluluk
+- Financial Modelling mergin the understandability of Çetin Kaygısızlar[^1] & complexity of Halil Ersu[^2]
+Secondary Sorumluluklar
+- İnovasyon ekibine destek w Ayşe Alpagut (Planned)
+	- SMRs
+- Statatistical Forecasting
+	- GE ile türbin problemi yaşıyormuşuz o (Planned)
+- Optimization
+	- Batarya alım satım ve pompaj depolamalı alım satım için satış
+- 
+- Excel ve Powerpoint becerilerini ölçeriz ona göre görev tanımın genişleyebilir (Planned)
+
+
+
+
+[^1]: Çetin Bey yapabilecek kapasitede ama onun bakış açısı daha makro kalmalı ve bu iş ona yapışmamalı, bu yüzden çok bilinçli bir şekilde bunu yapacak bir kişi arayışlarındaymışlar. O da benim.
+
+[^2]: Boğaziçi matematik ve finans mühendisliği çıkışlı, Holding Chief Financial Advisorı
+
+
+

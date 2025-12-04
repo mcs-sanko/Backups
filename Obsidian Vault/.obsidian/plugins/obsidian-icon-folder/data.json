@@ -6,6 +6,8 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiBadgeCent",
+      "LiCircle",
       "LiBookOpen"
     ],
     "recentlyUsedIconsSize": 5,
@@ -29,5 +31,6 @@
     "lucideIconPackType": "native",
     "debugMode": false,
     "useInternalPlugins": false
-  }
+  },
+  "Biz World": "LiCircle"
 }
