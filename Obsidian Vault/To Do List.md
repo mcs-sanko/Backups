@@ -4,7 +4,7 @@
 - [x] Create The model guide (TMG) ✅ 2025-10-27
 - [ ] Learn how to strategize and create projects (Strategy & Projects) Interconnect everything. Aralık sonuna kadar.
 	- [x] [[0. Foldering Structure|Create foldering structure]] ✅ 2025-11-10
-	- [ ] [[1. Master Business Plans|Create master business plans]]
+	- [x] [[1. Master Business Plans|Create master business plans]] ✅ 2025-11-24
 	- [ ] [[4. Run a Feasability Analysis|Create the master models]]
 		- [ ] Model yaratım eğitimi izle ve model guideını stress testle. [CFA Ghana 1](https://www.youtube.com/watch?v=SpxbnSLYQ0c), [2](https://www.youtube.com/watch?v=JgWdpN3LKTk), [3](https://www.youtube.com/watch?v=4Kb0rEmzyEw),  or [FinQuizPro](https://www.youtube.com/watch?v=nZ_TviK9IWY&list=PLxAunyTa64udgAZtB0eCcDw03umzao8_9&index=1)
 	- [ ] [[Sunum|Create master presentation]]
@@ -43,65 +43,42 @@
 	- 2. tezleri: Erken aşama girişilere küçük küçük yatırımlar. 3. yıldan sonra iyi gidiyorsa follow up investment.
 	- 3. tezleri (güncel): Girişim sermayesi fonlarına yatırımlar. %2 management fee is worth 
 
+
+- [ ] Prosedürler
+	- [x] Business Plan w/ fizibilite (Plan & Result), Adil Beye JES sunumu ile✅ 2025-12-02
+	- [ ] Yeni Alan (?) Analizi Template (Strateji tarafının olur) from SMR sunumu
+	- [ ] Startup dataroom, from Copenhagen
 ---
 
 
-- [x] Muhsin Bey ile Adil Bey'in istediği düzenlemeleri yap 15.30 ✅ 2025-11-25
-- [x] Ozan Beye PTDleri at. ✅ 2025-11-24
-- [x] Yaptırımları EPDK'dan kesinleştirip bilgi notu hazırla, ÇAtalca ve Güney için sunuma da koyç ✅ 2025-12-01
-- [x] Yiğit Bey'in odasına git özellikle teşekkür et. 📅 2025-11-26 ✅ 2025-11-26
+Dolar euro geçmişi olacaksa otomatik doldurt.
+
+Nasıl rpoje seçip kullanılmayanı sildirtcem beyin fıtınası yap. Birden falza debt tipini karşılaştırmak istesem ikisini de silmemem ama sadece birini kullanmam lazım o nasıl olucak
 
 
+Model geçmişten başlarsa
 
+USD tarihiden gelip predicitona geçecek.
 
-- [ ] Copenhagen Atomics toplantı notları gönder.
-Mühendislik görüşü:
+Model bugünden başlarsa
 
+USD bugünden başlayıp predictiona geçecek.
 
+Model gelecekten başlarsa
 
+USD prediction kısmını croplayacak
 
 
 Data rooma erişip bak. december first week
 Tech ve financial internal meeting. mid december
 
 
-
+Linkedin
 Aslak theoretical phsicist
 Thomas material scientist
 Mike CFO
 
-
-- [x] 10.30 Copenhagen sorular 📅 2025-11-26 ✅ 2025-12-01
-	- Technology
-		- Is it a risk that you validate not SMRs? 
-			- Graphite noderator 33% U farkları var uncertainityde karşımıza çıkıyorlar ama boyut olarak aşağğı yukarı aynılar.
-			- They design with large enough margins to account for uncertainities.
-			- It has a high time constant so behaves nicelty
-			- 60lardaki datanın güvenilirliğ tartışılır ama. OpenMSR ile cooperateliyorlar.
-		- They also do uncertaşnity sensitivity.
-		- They also do control system validation.
-		- 1 mili severt per 1m year gğüvebnliğini göstermeliler. Swissler simulasyonları denetliyorç
-	- Molten salt reaktörlerinde tesisat korozyonu çok büyük bir problem teşkil ediyor. Bu problemi nasıl çözdüklerini sormalıyız.
-			- If you maintain high level of salt concentration. They ecome stable and much less corrosive. 1-2 micron per year becomes inisignifacnt ocmpared to neutron damage etc. 
-			- Uni Liverpool ile publşicationları varmış bunu gösteren
-		- Nükleer yakıtları da kendilerinin temin edeceklerini söylediler ama bu aşamada sayılı olan nükleer yakıt üreticilerinden herhangi biriyle bir tedarik anlaşmaları vs. var mı sormalıyız. Tedarik zincirinin gelecekte getirebileceği riskleri biz de değerlendirmeliyiz.
-			- Buying it from france moreno urenco
-			- Natural Thorium fluoride is vertt
-			- 4.95% U lazım many providers.
-			- For large scale murona ile konuşuyorlar.
-			- Saltta Li7 kullanıyolar russia ve chinada var sadece commercial. Kendileri üretmek istiyorlar.
-			- Buying Th as tetrafluoride, mining site ve chemical sitelar ile alıp kendileri üretimine katılmak istiyorlar devamında long termde.
-			- 2029da supply issue çözüldüğünde
-		- They use nitarte salts to provide heat to the outside of the enclosure. How reliable are these salts to be used in heat exchangers so that steam can be carried to turbines. Will these salts be able to expel energy effectively? Otherwise wont the heat back up in the system causing a shutdown? is ok
-		- How open will the tech be to us. If we wanted to transfer or build some of the tech in Turkey will we be able to work as a team or are you just looking for hands off investors.
-			- validate reliability
-			- validate operability
-			- 4-5 sene pür testing istiyorlar.
-			- SMR MSRlar cheap enough to mass test thats what they wanna do, > VERY GOOD that they want to create by testing.
-		- What do you think your biggest challenge with the tech is
-			- Bringing everything together, rather than a critical piece of technology.
-		- Technology transfer
-			- Other EU, it would be nice to have Thorium fluorination in Turkey.
+- [x] Obsidian sigorta yaptır ✅ 2025-12-02
 
 
 - [ ] Koray Beyden HES iş planı al
@@ -112,8 +89,6 @@ Mike CFO
 
 
 - [ ] ESCO için ortaklıklı ve ortaklıksız duyarlılık analizi for EPC fiyatı. Kendimiz kaç EPC'ye yapsak daha iyi oluyor
-
-
 
 
 - [ ] Köseler RES'e bak fizibilite çalış.
@@ -131,7 +106,7 @@ Mike CFO
 
 
 
-- [ ] Pompaj Depolamalı Fizibilite 📅 2025-11-19 
+- [ ] Pompaj Depolamalı Fizibilite 
 	- [ ] Fizibilite
 		- 1. Güncelle
 		- Add capex expectations
@@ -209,12 +184,10 @@ Mike CFO
 
 - [ ] JES üretim tarafını master modele ekle, üretim hesaplarını düzelt, buhar hesabı yapamamışlar.
 
-- [ ] ESCO Karşılaştırma 📅 2025-11-14 
 
 
 
-
-- [ ] Sanibey Araban DRES Fizibilite için caperxin üsütnden geç
+- [ ] Sanibey Araban DRES Fizibilite için capexin üsütnden geç
 	- %9 düşmemiz ok ama YAT ve negatif fiyat konuşmadığımız için. Bunları eklesek ayrıca dah iyisi %3 dfüşmek olur da bizim girmediğimiz çok şey var o yüzden %9 daha iyi olabilir.
 	- Icing loss
 
@@ -222,7 +195,7 @@ Mike CFO
 
 
 
-- [ ] Obsidian sigorta yaptır
+
 
 - [ ] JES'ler için senaryo flowchartı. Muhsin Bey, Kemal Bey ve Merve Hanımla
 	- Demiryolu, taşkın santral boyutu
@@ -254,7 +227,7 @@ Under economic hardship you need to see the design choices you made because they
 
 
 
-
+- [ ] Yarından itibaren pazartesine kadar tatil/uzaktan çalışma 📅 2025-12-30
 
 
 
@@ -275,8 +248,7 @@ Under economic hardship you need to see the design choices you made because they
 
 #### Bir Daha İstanbul'a Gidince
 - [ ] Görkem'lerle yemek
-- [ ] Değer'den Ekrem başlamış olacak, tanış. 📅 2025-11-26
-- [ ] Güülsüm hanımarla vs. çay kahve vs. ayarla oralarla iyice tyanış kaynaş 📅 2025-11-26
+
 
 
 

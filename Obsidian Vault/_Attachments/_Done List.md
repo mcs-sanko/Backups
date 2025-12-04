@@ -269,3 +269,59 @@
 	- hangileri birbirini bağlayıcı kalemler o sırayı öğpren
 	- bir de proje programındaki ana başlıklar olarak öğren.
 - [x] OPEX kalemlerini de öğren ✅ 2025-11-24
+
+
+
+
+
+- [x] Muhsin Bey ile Adil Bey'in istediği düzenlemeleri yap 15.30 ✅ 2025-11-25
+- [x] Ozan Beye PTDleri at. ✅ 2025-11-24
+- [x] Yaptırımları EPDK'dan kesinleştirip bilgi notu hazırla, ÇAtalca ve Güney için sunuma da koyç ✅ 2025-12-01
+- [x] Yiğit Bey'in odasına git özellikle teşekkür et. 📅 2025-11-26 ✅ 2025-11-26
+
+
+- [x] Değer'den Ekrem başlamış olacak, tanış. 📅 2025-11-26 ✅ 2025-11-29
+- [x] Güülsüm hanımarla vs. çay kahve vs. ayarla oralarla iyice tyanış kaynaş 📅 2025-11-26 ✅ 2025-11-28
+
+- [x] Copenhagen Atomics toplantı notları gönder. ✅ 2025-12-01
+Mühendislik görüşü:
+
+
+
+
+
+
+
+- [x] 10.30 Copenhagen sorular 📅 2025-11-26 ✅ 2025-12-01
+	- Technology
+		- Is it a risk that you validate not SMRs? 
+			- Graphite noderator 33% U farkları var uncertainityde karşımıza çıkıyorlar ama boyut olarak aşağğı yukarı aynılar.
+			- They design with large enough margins to account for uncertainities.
+			- It has a high time constant so behaves nicelty
+			- 60lardaki datanın güvenilirliğ tartışılır ama. OpenMSR ile cooperateliyorlar.
+		- They also do uncertaşnity sensitivity.
+		- They also do control system validation.
+		- 1 mili severt per 1m year gğüvebnliğini göstermeliler. Swissler simulasyonları denetliyorç
+	- Molten salt reaktörlerinde tesisat korozyonu çok büyük bir problem teşkil ediyor. Bu problemi nasıl çözdüklerini sormalıyız.
+			- If you maintain high level of salt concentration. They ecome stable and much less corrosive. 1-2 micron per year becomes inisignifacnt ocmpared to neutron damage etc. 
+			- Uni Liverpool ile publşicationları varmış bunu gösteren
+		- Nükleer yakıtları da kendilerinin temin edeceklerini söylediler ama bu aşamada sayılı olan nükleer yakıt üreticilerinden herhangi biriyle bir tedarik anlaşmaları vs. var mı sormalıyız. Tedarik zincirinin gelecekte getirebileceği riskleri biz de değerlendirmeliyiz.
+			- Buying it from france moreno urenco
+			- Natural Thorium fluoride is vertt
+			- 4.95% U lazım many providers.
+			- For large scale murona ile konuşuyorlar.
+			- Saltta Li7 kullanıyolar russia ve chinada var sadece commercial. Kendileri üretmek istiyorlar.
+			- Buying Th as tetrafluoride, mining site ve chemical sitelar ile alıp kendileri üretimine katılmak istiyorlar devamında long termde.
+			- 2029da supply issue çözüldüğünde
+		- They use nitarte salts to provide heat to the outside of the enclosure. How reliable are these salts to be used in heat exchangers so that steam can be carried to turbines. Will these salts be able to expel energy effectively? Otherwise wont the heat back up in the system causing a shutdown? is ok
+		- How open will the tech be to us. If we wanted to transfer or build some of the tech in Turkey will we be able to work as a team or are you just looking for hands off investors.
+			- validate reliability
+			- validate operability
+			- 4-5 sene pür testing istiyorlar.
+			- SMR MSRlar cheap enough to mass test thats what they wanna do, > VERY GOOD that they want to create by testing.
+		- What do you think your biggest challenge with the tech is
+			- Bringing everything together, rather than a critical piece of technology.
+		- Technology transfer
+			- Other EU, it would be nice to have Thorium fluorination in Turkey.
+
+

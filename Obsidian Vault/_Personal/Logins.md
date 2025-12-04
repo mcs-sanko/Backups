@@ -2,6 +2,10 @@ Laba
 cagatay.sipahioglu@sankoenerji.com.tr
 ASDGFJKg39ıADS2
 
+TCMB EVDS
+cagatay.sipahioglu@sankoenerji.com.tr
+ASDGFJKg39ıADS2
+API Anahtarı: Dq3KZBWoav
 
 EPİAŞ Şeffaflık
 cagatay.sipahioglu@sankoenerji.com.tr

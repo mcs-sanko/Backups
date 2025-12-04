@@ -1,0 +1,70 @@
+let
+    // 1. GENEL AYARLAR
+    MyApiKey = "Dq3KZBWoav", 
+    BaslangicTarihi = "01-01-2023", // Başlangıç tarihi
+    BitisTarihi = Date.ToText(Date.From(DateTime.LocalNow()), "dd-MM-yyyy"), // Bitiş tarihi (Bugün)
+    
+    // 2. SERİ KODLARI
+    USD_Kodu = "TP.DK.USD.A.YTL",
+    EUR_Kodu = "TP.DK.EUR.A.YTL",
+    TUFE_Kodu = "TP.FG.J0",
+    UFE_Kodu = "TP.TUFE1YI.T1",
+
+    // =======================================================
+    // A. USD VERİSİNİN ÇEKİLMESİ VE HAZIRLANMASI (Index: 0)
+    // =======================================================
+    USD_Url = "https://evds2.tcmb.gov.tr/service/evds/series="&USD_Kodu&"&startDate="&BaslangicTarihi&"&endDate="&BitisTarihi&"&type=xml&aggregationTypes=avg&formulas=0&frequency=5",
+    USD_Kaynak = Xml.Tables(Web.Contents(USD_Url, [Headers = [key = MyApiKey]])),
+    USD_Table = USD_Kaynak{0}[items],
+    USD_SutunAdi = Text.Replace(USD_Kodu, ".", "_"),
+    #"USD_SutunlariSecildi" = Table.SelectColumns(USD_Table,{"Tarih", USD_SutunAdi}),
+    #"USD_YenidenAdlandirildi" = Table.RenameColumns(#"USD_SutunlariSecildi", {{USD_SutunAdi, "USD/TRY"}}),
+    #"USD_Donusturuldu" = Table.Transpose(#"USD_YenidenAdlandirildi"),
+    #"USD_BasliklarYukseltildi" = Table.PromoteHeaders(#"USD_Donusturuldu", [PromoteAllScalars=true]),
+    USD_Hazir = Table.AddColumn(#"USD_BasliklarYukseltildi", "Veri Tipi", each "USD/TRY", type text),
+
+    // =======================================================
+    // B. EUR VERİSİNİN ÇEKİLMESİ VE HAZIRLANMASI (Index: 0)
+    // =======================================================
+    EUR_Url = "https://evds2.tcmb.gov.tr/service/evds/series="&EUR_Kodu&"&startDate="&BaslangicTarihi&"&endDate="&BitisTarihi&"&type=xml&aggregationTypes=avg&formulas=0&frequency=5",
+    EUR_Kaynak = Xml.Tables(Web.Contents(EUR_Url, [Headers = [key = MyApiKey]])),
+    EUR_Table = EUR_Kaynak{0}[items],
+    EUR_SutunAdi = Text.Replace(EUR_Kodu, ".", "_"),
+    #"EUR_SutunlariSecildi" = Table.SelectColumns(EUR_Table,{"Tarih", EUR_SutunAdi}),
+    #"EUR_YenidenAdlandirildi" = Table.RenameColumns(#"EUR_SutunlariSecildi", {{EUR_SutunAdi, "EUR/TRY"}}),
+    #"EUR_Donusturuldu" = Table.Transpose(#"EUR_YenidenAdlandirildi"),
+    #"EUR_BasliklarYukseltildi" = Table.PromoteHeaders(#"EUR_Donusturuldu", [PromoteAllScalars=true]),
+    EUR_Hazir = Table.AddColumn(#"EUR_BasliklarYukseltildi", "Veri Tipi", each "EUR/TRY", type text),
+
+    // =======================================================
+    // C. TÜFE VERİSİNİN ÇEKİLMESİ VE HAZIRLANMASI (Index: 0)
+    // =======================================================
+    TUFE_Url = "https://evds2.tcmb.gov.tr/service/evds/series="&TUFE_Kodu&"&startDate="&BaslangicTarihi&"&endDate="&BitisTarihi&"&type=xml&aggregationTypes=none&formulas=0&frequency=5",
+    TUFE_Kaynak = Xml.Tables(Web.Contents(TUFE_Url, [Headers = [key = MyApiKey]])),
+    TUFE_Table = TUFE_Kaynak{0}[items], // NOT: Endeksler genelde 1. indexte olur
+    TUFE_SutunAdi = Text.Replace(TUFE_Kodu, ".", "_"),
+    #"TUFE_SutunlariSecildi" = Table.SelectColumns(TUFE_Table,{"Tarih", TUFE_SutunAdi}),
+    #"TUFE_YenidenAdlandirildi" = Table.RenameColumns(#"TUFE_SutunlariSecildi", {{TUFE_SutunAdi, "TÜFE Genel"}}),
+    #"TUFE_Donusturuldu" = Table.Transpose(#"TUFE_YenidenAdlandirildi"),
+    #"TUFE_BasliklarYukseltildi" = Table.PromoteHeaders(#"TUFE_Donusturuldu", [PromoteAllScalars=true]),
+    TUFE_Hazir = Table.AddColumn(#"TUFE_BasliklarYukseltildi", "Veri Tipi", each "TÜFE Genel", type text),
+
+    // =======================================================
+    // D. ÜFE VERİSİNİN ÇEKİLMESİ VE HAZIRLANMASI (Index: 0)
+    // =======================================================
+    UFE_Url = "https://evds2.tcmb.gov.tr/service/evds/series="&UFE_Kodu&"&startDate="&BaslangicTarihi&"&endDate="&BitisTarihi&"&type=xml&aggregationTypes=none&formulas=0&frequency=5",
+    UFE_Kaynak = Xml.Tables(Web.Contents(UFE_Url, [Headers = [key = MyApiKey]])),
+    UFE_Table = UFE_Kaynak{0}[items], // NOT: Endeksler genelde 1. indexte olur
+    UFE_SutunAdi = Text.Replace(UFE_Kodu, ".", "_"),
+    #"UFE_SutunlariSecildi" = Table.SelectColumns(UFE_Table,{"Tarih", UFE_SutunAdi}),
+    #"UFE_YenidenAdlandirildi" = Table.RenameColumns(#"UFE_SutunlariSecildi", {{UFE_SutunAdi, "ÜFE Genel"}}),
+    #"UFE_Donusturuldu" = Table.Transpose(#"UFE_YenidenAdlandirildi"),
+    #"UFE_BasliklarYukseltildi" = Table.PromoteHeaders(#"UFE_Donusturuldu", [PromoteAllScalars=true]),
+    UFE_Hazir = Table.AddColumn(#"UFE_BasliklarYukseltildi", "Veri Tipi", each "ÜFE Genel", type text),
+
+    // =======================================================
+    // E. TÜM VERİLERİ BİRLEŞTİRME (APPEND)
+    // =======================================================
+    FinalTable = Table.Combine({USD_Hazir, EUR_Hazir, TUFE_Hazir, UFE_Hazir})
+in
+    FinalTable
