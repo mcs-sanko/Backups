@@ -1,5 +1,6 @@
 {
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "_Attachments",
-  "promptDelete": false
+  "promptDelete": false,
+  "readableLineLength": true
 }

@@ -2,7 +2,7 @@
 ### Main Goals
 - [ ] Say no to anything that doesnt teach you transferrable business skills.
 - [x] Create The model guide (TMG) ✅ 2025-10-27
-- [ ] Learn how to strategize and create projects (Strategy & Projects) Interconnect everything. Aralık sonuna kadar.
+- [ ] Learn how to strategize and create projects (Strategy & Projects) Interconnect everything. 📅 2025-12-31
 	- [x] [[0. Foldering Structure|Create foldering structure]] ✅ 2025-11-10
 	- [x] [[1. Master Business Plans|Create master business plans]] ✅ 2025-11-24
 	- [ ] [[4. Run a Feasability Analysis|Create the master models]]
@@ -15,7 +15,13 @@
 	- [ ] Partner bulmayı ve partnerle iş yapmayı öğren
 		- [ ] Find JV or hibe for SANKO. Para verebilecek equity companylerle kendi rolodexini oluştur. we are about to get capped on our debt and stall. They should promote us they cant send a assistant specialist to a jv meeting.
 	- [ ] El sıkmayı öğren, networking
-
+- [ ] Terfi al 
+	- [ ] Uzman, kıdemli uzman hak ediş = İş yapmayı öğrendim, kritik işleri, iyi bir performansla yürütebiliyorum
+		- [ ] Obsidian dashboard ile yaptıklarını göster terfi iste
+		- [ ] Bakın ben böyle bir değer katmaya başladım, başkasının katamayacağı değerleri katıyorum, beni uzman yapın.
+			- UVPS: Master Modeller (is readable), one of the few who understand tech old AND NEW (SMRs), can coordinate people and organize information.
+	- [ ] Management hak ediş = İş yapmamayı öğrendim, kritik işleri, iyi bir performansla otomatiğe bağladım, şirketin kendi kendini yürütmesini sağlayabiliyorum
+		- [ ] Show n8n automations
 - [ ] Automate Strategy & Projects for SANKO using n8n and the auto emailing system. This should basically replace 90% of our workforce.
 	- Agent orchestration frameworks
 	- Start deploying with [Copilot Studio](https://www.youtube.com/watch?v=dX9MJM5EokE) -> Move onto n8n if ownership becomes a concern.
@@ -39,9 +45,24 @@
 	- [ ] Copenhagena bakarak dataroom setuplamayı öğren. Sistemlerini tamamen dokümante et.
 - [ ] Learn VC management
 	- They invest in US, EU.
-	- 1. tezleri: Olgunluk gösteren girişimlere büyük yatırımlar
-	- 2. tezleri: Erken aşama girişilere küçük küçük yatırımlar. 3. yıldan sonra iyi gidiyorsa follow up investment.
+	- 1. tezleri: Olgunluk gösteren girişimlere büyük yatırımlar. Erken aşama big ticket.
+	- 2. tezleri: Erken aşama girişilere küçük küçük yatırımlar. 3. yıldan sonra iyi gidiyorsa follow up investment. daha küçük ticketlar, daha 
+		- ne kadar networkün büyükse o kadar çok deal geliyor. İncelemek, raporlamak vs. bir sürü iş
+		- Smar moey olmak istiyorlar: Girişimci ihytiyacı olunca kollarını sıvayarak giriyorlar, cfoluğunu yapıoyorlar. İŞsmaişl biz dev  marketinge destek veriyor.
+		- Çok insan kaynağınız olursa ve çok captitalınız olursa girişimlere yatırım yapabiliyorsunuz ama limitli insan kaynaı ve bütçeysen o zaman fonlara yatırım yapmak çok daha mantıklı diyor.
 	- 3. tezleri (güncel): Girişim sermayesi fonlarına yatırımlar. %2 management fee is worth 
+- Amerikada yatırımcılar iyi girişimcilerin peşinden koşuyor. tr de girişimciler fonların peşinden koşuyor.
+- MOIC 2.53x. 10 yatırımın 3-4 tanesi batıyor. Yaklaşık 3 tanesi x1-2 getiriyor. 1-2 tanesi asıl büyüyor 6-8x biri fonu kurtaıyor, ikincisi de seni pür kara geçiriyor. 15 battı, 5-6 tanesi 1-2x, 3 tane unicorn çıkmış mesela. Insider unicorn olmuş, billion to one mesela ipo da yapmış. 6 ay lockupı var. Fonun çarpanı 3.5x olcak insiderlabirlikte 7x olcak. 10m lik fon 35 -> 70m geri gelicek. kaç yılda 10 yıl?
+- Ortalam 7yılda dönüt vermezse kafalarında write off yapıyolarmış sankoonline.
+- SANKO TEZİ 7 YIL.
+- Fonlarda bile 10+2 yıl sonra write off düşünrler.
+- Early satgaese 10+2, late stagese 5+2 veya 7+2 zorunlu tutuyorlar, management feeden ö
+- stratejik yatırımcılar ve finansal yatırımcılar var. Stratejik olanlar know how ip bakıyor, finansallar geri dönüt bekliyor. Stratejik de şirket haklarının hepsini almayı heedfliyor.
+- Know how işin nasıl yapılacağını öğreniriz ama ip olaarak bizi bloklarlar. Şirketin çoğunluğunu almadıkça da ip accessin olmaz!
+- Founderlara bu kadar erken aşamaa çok az klamış, girişimcilerin motivasyonunu çok azaltır. Girşimci mantığı ya girişimci olcam şirketimi büyütem ya da iş yerinde çalışcam profesyonel kariyer.
+	- Girişimci olcaksan ya büyütcem yatrıımcı alcam domine etcem farklı bi şeyler yapcam, burda hisse oranım kaça düşçek ve kaç paraya exit yapıcam. Beni 10m usd hayatımı kurtarır veya 100m usd tatmin eder bir girişim daha da kurarım bundan sonra veya c. benim hise roanım önemli değil, şirket büyür, kendi partronum olurum. 3 ayda bir investorlara rapor göndererek iyi bir maaşa sadece yan gelir yatarım.
+- Cap table ne kadar kalabalıksa, o kadra problematik. Azınlık hakları vs. va çünkü. Bu durmlarda geelde tüm azınlıklar mesela 67 tane tek irkete hak devreder ve 1 şirket takip eder.
+- TR'de 100 ortağa açılınca borsaya açık şirket gibi baktım.
 
 
 - [ ] Prosedürler
@@ -54,15 +75,129 @@
 	- [x] Reports & SMRs in obisidian go into Strategy Folder ✅ 2025-12-04
 	- [x] SMRs in projects goes into Strategy Folder ✅ 2025-12-04
 - [x] PC'deki proje dosyalarını sharepointe koy ✅ 2025-12-04
+- [x] Linkedin CA ✅ 2025-12-05
+	Aslak theoretical phsicist
+	Thomas material scientist
+	Mike CFO
 
-- [ ] Create a Strategy Folder and Guide before biz dev in obsidian
-	- [ ] Kurduğun düzeni not al. En son özetler tek göz önünde olsun veya direkt dışarıya açılabilir bir dataroom hep separate olsun.
+- [x] Obsidian sigorta yaptır ✅ 2025-12-02
 
-- [ ] Bizim RES, HES klasörleri doğru, onların içinde parked, live, rejected da doğru. Livein içinde artık live olmayanları parkla ve livein iine klasörlerini aç.
+- [x] Radiant nuclear bak ✅ 2025-12-05
+	- Tech scale
+		- 1 MW is small they wont be able to adress mining defense or data as they say, only residential imo. Remote residential or military outposts. (1)
+		- Mining wants 25-100mw
+		- Data centers must be local, not ai farm like
+		- for biggers they need mulitple modules. -> THey do plan for bigger reactors so that is good. Micro for prototyping and know how and then they escalate to 20mw etc.
+	- Tech ease of use
+		- türbin vs. integrated olması güzel. Run and forget.
+		- HALEU kullanmaları çok büyük problem. Russia mononpoly until at least 2029. ve military oolduğu için direkt problem yaşıycaklar.
+		- Air transportable olması çok iyi yoksa remote yere götüremezsin.
+	- Track record
+		- US military contract büyük avantaj
+	- Price
+		- 30M$/MW diyor. Wind 1-1.5 M\$ mesela, absürt bir premium var gerçekten. GERÇEKTEN lazım olması lazım. Residential olamaz küçük power plant kurmak daha mantıklı olur. Miningde bile adam dizel yakar daha iyi.
+	- 1 MW maden ve data center için çok küçük anca residential veya askeri outpost. 30M/MW aşırı pahalı residentialdaki herif 30M'e petrolü bile uçakla taşıyıp getirebilir. Price insensitive olan tek kuruluş askeriye. Orda da şu problem devreye giriyor bu adamların yakıtı HALEU, onu da en azından 2029'a kadar filan sadece Rusya üretiyor ve Rusya sadece askeri aplikasyonu olan bir teknoloji için HALEU satmaz.
+
+- [x] Kendine projeler dashboard yap. (2) ✅ 2025-12-05
+	- AD, enerji type, project type (kurulum, satın alma, satış, kapasite artışı gibi), saha, status (aktif, parked, go, no go), id mçsnin yaptığı işler id si. status değiştirme tarihleri.
+	- YEKAya da baktık unutma. Master model üretimi bakıyoruz unutma. Bütçe sunumu. JES 4
+	- Bilgi organizasyonu. Strateji overhaul
+
+- [x] Create a Strategy Folder and Guide before biz dev in obsidian ✅ 2025-12-05
+	- [x] Kurduğun düzeni not al. En son özetler tek göz önünde olsun veya direkt dışarıya açılabilir bir dataroom hep separate olsun. ✅ 2025-12-05
+	- [x] Strateji ana klasörleri business plandeki başlıklarla aynı olsun. ✅ 2025-12-05
+
+- [x] Defterdeki notlarını al ✅ 2025-12-05
+
+
+
+
+- [ ] Main Goals düzenle, sanko dosyasını paso buraya al.
+	- [ ] VC'yi paralelde yürütebiliyoruz bak rotasyona gerek kalmadan Ayşe Hanım Emre Bey İsamil Bey bir ekip olarak bakalım. ordan bir kontakt kurmuş olalım.
+
+- [ ] Çatalca curtailment lossu gerçekten 0 mıymış. Max 92 üretmiş görünüyor, ama lisnsta MWe'yi bulamadım 94,5 sanıcam ama niye bi yerde yazmıyor. Çatalca iyi saha o sıfırsa herkese sıfır diyebiliriz. Gerçi powerbi'dan sayı çekebiliriz o daha iyi olur
+
+- [ ] JES üretim hesabını doğru gir.
+- [ ] RES üretim hesabını doğru gir.
+- [ ] GES üretim hesabını doğru gir.
+- [ ] HES üretim hesabını doğru gir.
+- [ ] İletimden Bağlı/Dağıtımdan bağlı/EPDK tek tarife
+
+
+- [ ] Defterdeki TMG notlarını al
+
+- [ ] Safık BEyler curtailment lossları hespalamıyor, electrical lossları da hesaplamıyor. Jesus fuck.
+
+Dolar euro geçmişi olacaksa otomatik doldurt.
+
+Nasıl rpoje seçip kullanılmayanı sildirtcem beyin fıtınası yap. Birden falza debt tipini karşılaştırmak istesem ikisini de silmemem ama sadece birini kullanmam lazım o nasıl olucak
+
+
+Model geçmişten başlarsa
+USD tarihiden gelip predicitona geçecek.
+Model bugünden başlarsa
+USD bugünden başlayıp predictiona geçecek.
+Model gelecekten başlarsa
+USD prediction kısmını croplayacak
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- [ ] Projeler düzenle. (1)
+	- [ ] Bizim RES, HES klasörleri doğru, onların içinde parked, live, rejected da doğru. Livein içinde artık live olmayanları parkla ve livein iine klasörlerini aç.
 	- [ ] For projects. 0 No-Go, 1 Parked, 2 Assessing, 3 Go
 	- [ ] RES, HES vs klasörlerinin içini bu şekilde düzenle. Projeler klasörlerinde eğer strateji varsa onları da doğeu yere götür
-- [ ] Pompaj HES'i yap artık!
-- [ ] Liya fizibilite yap!
+	- [ ] SANKO ana amaçları düzenle
+	1. Taslaklar
+	2. İş Takip
+	3. 
+
+
+
+
+
+ - [ ] Ayşe hanımla sanko inovasyon bak
+	 - [ ] Emre Beyle yüz yüze konuşmaya git.
+	 - [ ] Hem birimlerle ve özellikle sahayla admalrın konuşmakta rahat olduğu kişilerle gidip pain point dinliycen
+	 - [ ] Buy pain pointleri adressleyen girişimleri inkübe edicen. 
+	 - [ ] Gidip venture builder kurucan
+
+
+- [ ] SMR bilgi notu hazırla Çetin Beyin dediğinden. Copenhagenı da ekle, sankoonline görüşünü de ekle postala. SMR teknoloji tanıtımı ve fırsat diye Adil, Ziya, Nihal. Call to action. cc Ayşe Çetin Emre.
+
+
+
+
+- [ ] Radianttan pitch deck öğren
+- [ ] Radiantta SMR sunumuna bilgiler al
+- [ ] KJöseler RES ile kendi iş düzenimizi steplerimizi arşılaştırt. Rüzgar ölçüm direği filan da yapıyolar bak.
+- [ ] Aşağıdaki notlardan pitch deck okuma guideı yaz.
+- [ ] SMr'ınkinin adı teknoloji araştırma dokümanı olacak.
+
+- [ ] Ziya Bey ve Adil Bey'e Copenhagen atomics için bilgi notu at, karar iste sankoonline için çok uzun süğre geri dönüş de. Bizim IP almamız için de çok pahalı olur majority almamız gerekçek halihazırda çok dilutelanmışlar.
+
+- [ ] Buy-in lerde
+	- NDA
+	- Dataroom
+	- Fizibilite
+	- Go, No-Go
+
+
+
+
 
 
 
@@ -115,37 +250,6 @@
 
 
 
-
-
-
-Dolar euro geçmişi olacaksa otomatik doldurt.
-
-Nasıl rpoje seçip kullanılmayanı sildirtcem beyin fıtınası yap. Birden falza debt tipini karşılaştırmak istesem ikisini de silmemem ama sadece birini kullanmam lazım o nasıl olucak
-
-
-Model geçmişten başlarsa
-
-USD tarihiden gelip predicitona geçecek.
-
-Model bugünden başlarsa
-
-USD bugünden başlayıp predictiona geçecek.
-
-Model gelecekten başlarsa
-
-USD prediction kısmını croplayacak
-
-
-Data rooma erişip bak. december first week
-Tech ve financial internal meeting. mid december
-
-
-Linkedin
-Aslak theoretical phsicist
-Thomas material scientist
-Mike CFO
-
-- [x] Obsidian sigorta yaptır ✅ 2025-12-02
 
 
 - [ ] Koray Beyden HES iş planı al
@@ -221,12 +325,6 @@ Mike CFO
 
 
 
-- [ ] GE forecast
-	- [ ] Production farkı neden Mustafa Bey'lerle aynı sonucu bir elde et
-	- [ ] 2ye ayır faultları repair ve replacement olarak (biri daha kritik daha rare daha uzun sürüyor)
-	- [ ] assumption fault tiplerinde istatistiksel asssumptionları presentkliecdek bir formatla presentle
-	- [ ] 20 yıola kadar her fault ne zaman oluşmuş jka günde çözülmüş nabız ver.
-
 
 
 
@@ -249,9 +347,9 @@ Under economic hardship you need to see the design choices you made because they
 - [ ] Yarından itibaren pazartesine kadar tatil/uzaktan çalışma 📅 2025-12-30
 
 
-
-
 - [ ] IEA Raporunu Özetle📅 2025-11-07
+
+
 
 
 
@@ -271,3 +369,9 @@ Under economic hardship you need to see the design choices you made because they
 
 
 
+### Parked
+- [ ] GE forecast
+	- [ ] Production farkı neden Mustafa Bey'lerle aynı sonucu bir elde et
+	- [ ] 2ye ayır faultları repair ve replacement olarak (biri daha kritik daha rare daha uzun sürüyor)
+	- [ ] assumption fault tiplerinde istatistiksel asssumptionları presentkliecdek bir formatla presentle
+	- [ ] 20 yıola kadar her fault ne zaman oluşmuş jka günde çözülmüş nabız ver.

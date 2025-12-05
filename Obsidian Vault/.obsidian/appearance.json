@@ -1,5 +1,8 @@
 {
   "cssTheme": "Wasp",
   "theme": "obsidian",
-  "accentColor": "#f8c537"
+  "accentColor": "#f8c537",
+  "enabledCssSnippets": [
+    "dashboard"
+  ]
 }

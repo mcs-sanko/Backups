@@ -1,0 +1,15 @@
+/* EDITOR (source mode, Live Preview) */
+.dashboard .markdown-source-view.mod-cm6 .cm-scroller,
+.dashboard .markdown-source-view.mod-cm6 .cm-content {
+    max-width: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+
+/* for reading view */
+.dashboard.markdown-preview-view.is-readable-line-width .markdown-preview-sizer {
+    max-width: 100%;
+}
+
+

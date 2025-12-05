@@ -1,0 +1,1 @@
+TEcrübe olduğu için doğru sektörden girmen lazım!
