@@ -1,4 +1,7 @@
 
+==IRR definitily! It is a function of both scale and agressiveness. SON KARAR BU, IRR, YES==
+
+
 Raporladıktan sonra KPI'lar kötü ise kötü kpiları iyileştirmek için ne yapabiliriz diye düşünülmesine vesile olmalı. Mesela bir trafo o kpiların çok ktüleşmesine sebep oluyorsa bu trafoyu kurmadan bu proje yapılabilir mi gibi bu problematik kalemlere çözümler bulunmaya çalış9lmalı.
 
 

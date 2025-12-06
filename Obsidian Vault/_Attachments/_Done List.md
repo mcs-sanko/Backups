@@ -325,3 +325,44 @@ Mühendislik görüşü:
 			- Other EU, it would be nice to have Thorium fluorination in Turkey.
 
 
+- [x] Strateji Klasörünü tamamen düzenle. (MAJOR OVERHAUL) ✅ 2025-12-04
+	- [x] Reports & SMRs in obisidian go into Strategy Folder ✅ 2025-12-04
+	- [x] SMRs in projects goes into Strategy Folder ✅ 2025-12-04
+- [x] PC'deki proje dosyalarını sharepointe koy ✅ 2025-12-04
+- [x] Linkedin CA ✅ 2025-12-05
+	Aslak theoretical phsicist
+	Thomas material scientist
+	Mike CFO
+
+- [x] Obsidian sigorta yaptır ✅ 2025-12-02
+
+- [x] Radiant nuclear bak ✅ 2025-12-05
+	- Tech scale
+		- 1 MW is small they wont be able to adress mining defense or data as they say, only residential imo. Remote residential or military outposts. (1)
+		- Mining wants 25-100mw
+		- Data centers must be local, not ai farm like
+		- for biggers they need mulitple modules. -> THey do plan for bigger reactors so that is good. Micro for prototyping and know how and then they escalate to 20mw etc.
+	- Tech ease of use
+		- türbin vs. integrated olması güzel. Run and forget.
+		- HALEU kullanmaları çok büyük problem. Russia mononpoly until at least 2029. ve military oolduğu için direkt problem yaşıycaklar.
+		- Air transportable olması çok iyi yoksa remote yere götüremezsin.
+	- Track record
+		- US military contract büyük avantaj
+	- Price
+		- 30M$/MW diyor. Wind 1-1.5 M\$ mesela, absürt bir premium var gerçekten. GERÇEKTEN lazım olması lazım. Residential olamaz küçük power plant kurmak daha mantıklı olur. Miningde bile adam dizel yakar daha iyi.
+	- 1 MW maden ve data center için çok küçük anca residential veya askeri outpost. 30M/MW aşırı pahalı residentialdaki herif 30M'e petrolü bile uçakla taşıyıp getirebilir. Price insensitive olan tek kuruluş askeriye. Orda da şu problem devreye giriyor bu adamların yakıtı HALEU, onu da en azından 2029'a kadar filan sadece Rusya üretiyor ve Rusya sadece askeri aplikasyonu olan bir teknoloji için HALEU satmaz.
+
+- [x] Kendine projeler dashboard yap. (2) ✅ 2025-12-05
+	- AD, enerji type, project type (kurulum, satın alma, satış, kapasite artışı gibi), saha, status (aktif, parked, go, no go), id mçsnin yaptığı işler id si. status değiştirme tarihleri.
+	- YEKAya da baktık unutma. Master model üretimi bakıyoruz unutma. Bütçe sunumu. JES 4
+	- Bilgi organizasyonu. Strateji overhaul
+
+- [x] Create a Strategy Folder and Guide before biz dev in obsidian ✅ 2025-12-05
+	- [x] Kurduğun düzeni not al. En son özetler tek göz önünde olsun veya direkt dışarıya açılabilir bir dataroom hep separate olsun. ✅ 2025-12-05
+	- [x] Strateji ana klasörleri business plandeki başlıklarla aynı olsun. ✅ 2025-12-05
+
+- [x] Defterdeki notlarını al ✅ 2025-12-05
+
+
+- [x] Main Goals düzenle, sanko dosyasını paso buraya al. ✅ 2025-12-06
+	- [x] VC'yi paralelde yürütebiliyoruz bak rotasyona gerek kalmadan Ayşe Hanım Emre Bey İsamil Bey bir ekip olarak bakalım. ordan bir kontakt kurmuş olalım. ✅ 2025-12-06
